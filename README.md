@@ -16,3 +16,5 @@ Encaragdo del desarrollo de la funcionalidad y lógica interna del software.
 
 -Huamani Salazar Jander - Especialista en Experiencia de Usuario
 Encargado en el diseño y experiencia de usuario, realizando pruebas y mejoras con respecto a la interacción entre el usuario y sistema 
+
+##h
