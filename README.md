@@ -25,7 +25,7 @@ Encargado en el diseño y experiencia de usuario, realizando pruebas y mejoras c
 
 Integrantes:
 °Hermoza Quispe, Daniel Rodrigo:
-![Descripción de la imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Nombre.jpeg)
+![Descripción de la imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Nombre.jpg)
 
 
 Grupo:
