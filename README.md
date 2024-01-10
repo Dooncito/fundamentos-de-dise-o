@@ -25,4 +25,4 @@ Encargado en el diseño y experiencia de usuario, realizando pruebas y mejoras c
 
 
 Grupo:
-(https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Image_2024.jpeg)
+![Descripción de la imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Image_2024.jpeg)
