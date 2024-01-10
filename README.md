@@ -22,3 +22,7 @@ Encargado en el diseño y experiencia de usuario, realizando pruebas y mejoras c
 - Hardware: Descripción de la parte física de nuestro proyecto
 - Imagenes: Contenido multimedia referente a nuestro proyecto
 - Software: Información sobre el desarrollo del sistema de nuestro proyecto, tanto back- end como frontd - end
+
+
+Grupo:
+https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Image_2024.jpeg
