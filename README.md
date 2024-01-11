@@ -1,8 +1,6 @@
 ## Equipo 5
-Lenguaje: Python 
 
-Roles:
--Quispe Diaz Said Andre - Encargado de investigación y experiencia de ususario
+Diaz Said Andre - Encargado de investigación y experiencia de ususario
 Realizar estudios cualitativos y cuantitativos para comprender las necesidades, comportamientos y motivaciones de los usuarios.
 
 -Acevedo Valer Milagros Soledad - Encargada del diseño de software (Full-stack)
