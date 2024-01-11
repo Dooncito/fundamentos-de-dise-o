@@ -1,11 +1,9 @@
 <<<<<<< HEAD
 # Grupo 11
-#### Somos alumnos de la Universidad Peruano Cayetano Heredia conformados por tanto de la carrera de Ingenieria Informática como Ingenieria Ambiental.  
+#### Somos un equipode estudiantes apasionados de Ingeniería Informática y Ambiental de la Universidad Peruano Cayetano Heredia, unidos por el propósito de fusionar la tecnología con la sostenibilidad.   
 Grupo:
 ![Descripción de la imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Image_2024.jpeg)
-#### Presentando los integrantes del equipo con la asignacion de roles. 
-
-
+ 
 ## Integrantes:
 
 * [Said Andre Quispe Diaz](#Said-Andre-Quispe-Diaz) 
