@@ -18,7 +18,7 @@ Responsable del diseño y creación del prototipo a realizar.
 - Imagenes: Contenido multimedia referente a nuestro proyecto
 - Software: Información sobre el desarrollo del sistema de nuestro proyecto, tanto back- end como frontd - end
 
-Integrantes:
+Integrantes
 °Hermoza Quispe, Daniel Rodrigo:
 ![Descripción de la imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Nombre.jpg)
 
