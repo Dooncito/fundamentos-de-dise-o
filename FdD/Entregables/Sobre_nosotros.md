@@ -19,6 +19,7 @@
  ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/fcb15758a2783058a8d311295335f44ca3222c5f/Imagenes/Descripcion/Said.jpg)
  - #### Milagros Soledad Acevedo Valer 
  - #### Daniel Rodrigo Hermoza Quispe
+ ![Imagen](C:\Users\Daniel\Downloads)
  - #### Jander Huamani Salazar
 
  
