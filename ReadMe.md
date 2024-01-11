@@ -20,6 +20,7 @@ Responsable del diseño y creación del prototipo a realizar.
 - Imagenes: Contenido multimedia referente a nuestro proyecto
 - Software: Información sobre el desarrollo del sistema de nuestro proyecto, tanto back- end como frontd - end
 
+[Enlace a mi archivo](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/FdD/Entregables/Sobre_nosotros.md)
 
 
 Grupo:
