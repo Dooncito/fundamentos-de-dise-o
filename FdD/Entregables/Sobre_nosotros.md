@@ -21,5 +21,6 @@ Grupo:
  - #### Daniel Rodrigo Hermoza Quispe
  ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Descripcion/ggfundamentos.jpg)
  - #### Jander Huamani Salazar
+ ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Descripcion/jander.jpg)
 
  
