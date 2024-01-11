@@ -5,23 +5,22 @@
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
-      display: flex;
     }
     .card {
       border: 1px solid #ccc;
       border-radius: 8px;
       overflow: hidden;
       margin: 20px;
-      width: 300px;
+      width: 400px;
       display: flex;
-      flex-direction: column;
     }
     .card img {
-      width: 100%;
+      width: 150px;
       height: auto;
     }
     .card-content {
       padding: 15px;
+      flex: 1; /* Esto permite que ocupe el espacio restante */
     }
   </style>
   <title>Cartas de Presentación</title>
