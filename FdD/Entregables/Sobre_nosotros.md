@@ -5,6 +5,7 @@
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
+      display: flex;
     }
     .card {
       border: 1px solid #ccc;
@@ -12,6 +13,8 @@
       overflow: hidden;
       margin: 20px;
       width: 300px;
+      display: flex;
+      flex-direction: column;
     }
     .card img {
       width: 100%;
