@@ -22,11 +22,11 @@
   * Correo electronico:
 ## Roles:
  - #### Said Andre Quispe Diaz
- ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/fcb15758a2783058a8d311295335f44ca3222c5f/Imagenes/Descripcion/Said.jpg)
+ ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/fcb15758a2783058a8d311295335f44ca3222c5f/Imagenes/Informacion_de_integrantes/Said.jpg)
  - #### Milagros Soledad Acevedo Valer 
  - #### Daniel Rodrigo Hermoza Quispe
- ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Descripcion/ggfundamentos.jpg)
+ ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Informacion_de_integrantes/ggfundamentos.jpg)
  - #### Jander Huamani Salazar
- ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Descripcion/jander.jpg)
+ ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Informacion_de_integrantes/jander.jpg)
 
  
