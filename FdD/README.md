@@ -25,10 +25,19 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
     6.  Introducción a los equipos de laboratorio
     7.  Revisión de patentes
     8.  Contexto social y económico
-    9.  Introducción al diseño determinístico10. Descripción del problema identificado 
-    
-
+    9.  Introducción al diseño determinístico10. Descripción del problema identificado. 
 #### Unidad 2:
+1. Metodología de diseño VDI 2221 y 2225
+2. Estado del arte (contexto comercial y científico) y lista de requerimientos.
+3. Fundamentos de electrónica
+4. Uso de protoboard, circuitos básicos y procura de componentes electrónicos
+5. Prototipado con Arduino
+6. Uso de Arduino nano 33 IoT
+7. Ejemplos de matriz morfológica
+8.  Caja negra y esquema de funciones
+9.  Técnicas para bocetado
+10.  Matriz morfológica y tabla de valoración
+11.  Hito 1: bocetos y proyecto ganador
 
 #### Unidad 3:
 
