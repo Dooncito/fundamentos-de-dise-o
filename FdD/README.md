@@ -12,14 +12,26 @@ Tiene como objetivo desarrollar en el estudiantecompetencias para diseñar, impl
 4. [Docentes](#Docentes)
 
 ## Descripción 
+_En este curso se presenta a los estudiantes desafíos reales basados en problemáticasambientales dentro del contexto nacional. Se le brindará al estudiante conocimientos, comoel uso de dispositivos IoT e impresión 3D que le permitan crear soluciones a los problemasidentificados. Haciendo uso de las metodologías del diseño determinístico y designthinking, el alumno podrá identificar y analizar necesidades, diseñar conceptos de solucióny crear prototipos innovadores de baja resolución usando fabricación digital._
 
-## Contenido
+## Contenido:
 
-### Unidad 1
+#### Unidad 1:
+    1. Introducción al curso e introducción a Git y GitHub
+    2. Introducción al laboratorio. Presentación de situación problemática.
+    3. Identificación del problema
+    4. Repositorio en GitHub y presentación de los miembros del equipo.
+    5. Revisión bibliográfica
+    6. Introducción a los equipos de laboratorio
+    7. Revisión de patentes
+    8. Contexto social y económico
+    9. Introducción al diseño determinístico10. Descripción del problema 
+       identificado 
+    
 
-### Unidad 2
+#### Unidad 2:
 
-### Unidad 3
+#### Unidad 3:
 
 ## Evaluación 
 
