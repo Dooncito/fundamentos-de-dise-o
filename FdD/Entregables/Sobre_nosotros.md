@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Grupo 11
 #### Somos un equipo de estudiantes apasionados de Ingeniería Informática y Ambiental de la Universidad Peruano Cayetano Heredia, unidos por el propósito de fusionar la tecnología con la sostenibilidad.   
 Grupo:
