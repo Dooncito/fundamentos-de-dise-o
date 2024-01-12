@@ -9,12 +9,17 @@
 
 * [Said Andre Quispe Diaz](#Said-Andre-Quispe-Diaz) 
 
+  * Correo electronico:
+    
 * [Milagros Soledad Acevedo Valer ](#Milagros-Soledad-Acevedo-Valer)
 
+  * Correo electronico:
 * [Daniel Rodrigo Hermoza Quispe](#Daniel-Rodrigo-Hermoza-Quispe)
 
+  * Correo electronico:
 * [Jander Huamani Salazar](#Jander-Huamani-Salazar)
 
+  * Correo electronico:
 ## Roles:
  - #### Said Andre Quispe Diaz
  ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/fcb15758a2783058a8d311295335f44ca3222c5f/Imagenes/Descripcion/Said.jpg)
