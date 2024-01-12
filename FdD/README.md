@@ -57,9 +57,12 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
     12. Hito 2: presentación de prototipo y póste
     
 ## Evaluación 
-|  Aligned  | Right Aligned |
+|  Aspecto por evaluar  | Ponderación |
 | -------------:|:---------------:|
-| Cell 3        | **Bold**        |
+| Evaluación continua(EC)
+* Informes(IF)
+* Talleres(TA)
+* Autoevaluación | **Bold**        |
 | Cell 6        | *Italic*        |
 | Cell 9        | ~~Strike~~      |
 |Cell 9        | hcjhcjhc        | 
