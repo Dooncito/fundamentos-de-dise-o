@@ -67,9 +67,11 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
     <tbody>
         <tr>
             <td align="left ">Esto aún no se desfasa 
-<ol>  
-<li> Primer elemento romano  
-</ol>
+<ul>
+  <li>Informes (IF)</li>
+  <li>Talleres (TA)</li>
+  <li>Autoevaluación (AE)</li>
+</ul>
 </td>
             <td align="center">R2 Text A</td>
         </tr>
