@@ -57,5 +57,13 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
     12. Hito 2: presentación de prototipo y póste
     
 ## Evaluación 
+|  Aligned  | Right Aligned |
+| -------------:|:---------------:|
+| Cell 3        | **Bold**        |
+| Cell 6        | *Italic*        |
+| Cell 9        | ~~Strike~~      |
+|Cell 9        | hcjhcjhc        | 
+
+
 
 ## Docentes
