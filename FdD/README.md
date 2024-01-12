@@ -104,3 +104,9 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
 
 
 ## Docentes
+|  Nombres y Apellidos |  Correo electrónico   |
+|:------:|:------:|
+| Umbert Lewis De la Cruz Rodriguez  | umbert.de.la.cruz@upch.pe  |
+| Juan Manuel Zúñiga Mamani  | juan.zuniga@upch.pe  |
+| Renzo José Chan Ríos  | renzo.chan@upch.pe  |
+
