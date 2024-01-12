@@ -66,26 +66,37 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
     </thead>
     <tbody>
         <tr>
-            <td align="left ">Esto aún no se desfasa 
+            <td align="left ">Evaluación continua (EC)
 <ul>
   <li>Informes (IF)</li>
   <li>Talleres (TA)</li>
   <li>Autoevaluación (AE)</li>
 </ul>
 </td>
-            <td align="center">R2 Text A</td>
+            <td align="center">30%</td>
+        </tr>
+         <td align="left ">Hito 1 (H1)
+<ul>
+  <li>Ayuda visual (AV)</li>
+  <li>Presentación oral (PO)</li>
+  <li>Autoevaluación (AE)</li>
+</ul>
+</td>
+            <td align="center">30%</td>
+        </tr>
+         <td align="left ">Hito 2 (H2)
+<ul>
+  <li>Póster (PS)</li>
+  <li>Presentación oral (PO)</li>
+  <li>Prototipo (PR) </li>
+  <li>Autoevaluación (AE)</li>
+</ul>
+</td>
+            <td align="center">40%</td>
         </tr>
         <tr>
-            <td align="center">R1 Text</td>
-            <td align="center">R2 Text A</td>
-        </tr>
-        <tr>
-            <td align="center">R1 Text</td>
-            <td align="center">R2 Text A</td>
-        </tr>
-        <tr>
-            <td align="center">R1 Text</td>
-            <td align="center">R2 Text A</td>
+            <td align=" right">Total</td>
+            <td align="center">100%</td>
         </tr>
     </tbody>
 </table> 
