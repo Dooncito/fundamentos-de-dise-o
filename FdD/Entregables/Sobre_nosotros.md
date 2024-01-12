@@ -4,6 +4,7 @@
 <p align="center">
   <img width="560" height="420" src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Image_2024.jpeg">
 </p> 
+
 ## Integrantes:
 
 * [Said Andre Quispe Diaz](#Said-Andre-Quispe-Diaz) 
