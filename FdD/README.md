@@ -57,15 +57,32 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
     12. Hito 2: presentación de prototipo y póste
     
 ## Evaluación 
-|  Aspecto por evaluar  | Ponderación |
-| -------------:|:---------------:|
-| Evaluación continua(EC)
-* Informes(IF)
-* Talleres(TA)
-* Autoevaluación | **Bold**        |
-| Cell 6        | *Italic*        |
-| Cell 9        | ~~Strike~~      |
-|Cell 9        | hcjhcjhc        | 
+<table>
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">R1 Text</td>
+            <td align="center">R2 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R1 Text</td>
+            <td align="center">R2 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R1 Text</td>
+            <td align="center">R2 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R1 Text</td>
+            <td align="center">R2 Text A</td>
+        </tr>
+    </tbody>
+</table> 
 
 
 
