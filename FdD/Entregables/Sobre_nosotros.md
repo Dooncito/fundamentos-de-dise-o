@@ -23,7 +23,8 @@
 ## Roles:
  - #### Said Andre Quispe Diaz
  ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/be0f4d404c9a5fe23c6a8871d5381b0590ad35bc/Imagenes/Informacion_de_integrantes/Said.jpg)
- - #### Milagros Soledad Acevedo Valer 
+ - #### Milagros Soledad Acevedo Valer
+   ![Imagn](https://github.com/Dooncito/fundamentos-de-dise-o/blob/cfc777fc8e1845302cf6810205646a3d90e51ed6/Imagenes/Informacion_de_integrantes/m.jpg)
  - #### Daniel Rodrigo Hermoza Quispe
  ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Informacion_de_integrantes/ggfundamentos.jpg)
  - #### Jander Huamani Salazar
