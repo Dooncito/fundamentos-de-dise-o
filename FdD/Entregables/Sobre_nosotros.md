@@ -7,17 +7,17 @@
 
 ## Integrantes:
 
-* [Said Andre Quispe Diaz](#Said-Andre-Quispe-Diaz) 📰_(Coordinadora de investigacion y experiencia de ususario)_
+* [Said Andre Quispe Diaz](#Said-Andre-Quispe-Diaz) 📰 _(Coordinadora de investigacion y experiencia de ususario)_
 
   * Correo electronico: ​​​​
     
-* [Milagros Soledad Acevedo Valer ](#Milagros-Soledad-Acevedo-Valer) 💻_(Coordinadora de diseño de software y soporte)_
+* [Milagros Soledad Acevedo Valer ](#Milagros-Soledad-Acevedo-Valer) 💻 _(Coordinadora de diseño de software y soporte)_
 
   * Correo electronico: milagro.acevedo@upch.pe
-* [Daniel Rodrigo Hermoza Quispe](#Daniel-Rodrigo-Hermoza-Quispe) 💡_(Coordinador general y área electrónica)_
+* [Daniel Rodrigo Hermoza Quispe](#Daniel-Rodrigo-Hermoza-Quispe) 💡 _(Coordinador general y área electrónica)_
 
   * Correo electronico:
-* [Jander Huamani Salazar](#Jander-Huamani-Salazar) 📊_(Coordinador de diseño y manufactura)_
+* [Jander Huamani Salazar](#Jander-Huamani-Salazar) 📊 _(Coordinador de diseño y manufactura)_
 
   * Correo electronico:
 ## Roles:
