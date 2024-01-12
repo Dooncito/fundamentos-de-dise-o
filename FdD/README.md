@@ -67,7 +67,7 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
     <tbody>
         <tr>
             <td align="left ">Esto aún no se desfasa 
-<ol type="*">  
+<ol type="A">  
 <li> Primer elemento romano  
 </ol>
 </td>
