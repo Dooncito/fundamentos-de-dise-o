@@ -17,16 +17,15 @@ _En este curso se presenta a los estudiantes desafíos reales basados en problem
 ## Contenido:
 
 #### Unidad 1:
-    1. Introducción al curso e introducción a Git y GitHub
-    2. Introducción al laboratorio. Presentación de situación problemática.
-    3. Identificación del problema
-    4. Repositorio en GitHub y presentación de los miembros del equipo.
-    5. Revisión bibliográfica
-    6. Introducción a los equipos de laboratorio
-    7. Revisión de patentes
-    8. Contexto social y económico
-    9. Introducción al diseño determinístico10. Descripción del problema 
-       identificado 
+    1.  Introducción al curso e introducción a Git y GitHub
+    2.  Introducción al laboratorio. Presentación de situación problemática.
+    3.  Identificación del problema
+    4.  Repositorio en GitHub y presentación de los miembros del equipo.
+    5.  Revisión bibliográfica
+    6.  Introducción a los equipos de laboratorio
+    7.  Revisión de patentes
+    8.  Contexto social y económico
+    9.  Introducción al diseño determinístico10. Descripción del problema identificado 
     
 
 #### Unidad 2:
