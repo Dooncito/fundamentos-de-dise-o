@@ -3,7 +3,7 @@
 Grupo:
 ![Descripción de la imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Image_2024.jpeg)
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Image_2024.jpeg">
+  <img width="460" height="320" src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/0dd945176e1d28cc54fcccfb2de06847f1ee8314/Imagenes/Image_2024.jpeg">
 </p> 
 ## Integrantes:
 
