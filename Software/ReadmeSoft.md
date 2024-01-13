@@ -1,0 +1,1 @@
+ Información sobre el desarrollo del sistema de nuestro proyecto, tanto back- end como frontd - end

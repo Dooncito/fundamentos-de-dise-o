@@ -1,6 +1,8 @@
 ## Equipo 5
-Lenguaje: Python 
+Proyecto de energía renovable PROXIMAMENTE . 
+Si desea conoce más de nosotros [dale click AQUI.](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/FdD/Entregables/Sobre_nosotros.md)
 
+<<<<<<< HEAD
 Roles:
 -Quispe Diaz Said Andre - Encargado de investigación y experiencia de ususario
 Realizar estudios cualitativos y cuantitativos para comprender las necesidades, comportamientos y motivaciones de los usuarios.
@@ -28,3 +30,5 @@ Grupo:
 
 Said Quispe Diaz: 
 ![Alt text](<WhatsApp Image 2024-01-10 at 11.58.14 AM.jpeg>)
+=======
+>>>>>>> b44a5c99d463026bafc7814226abb71fc7dab2ec
