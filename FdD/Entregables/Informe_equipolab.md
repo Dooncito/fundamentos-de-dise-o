@@ -6,12 +6,10 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
 * [Materiales](#materiales)
 * [Uso del multímetro y Fuente de alimentación](#uso-del-multímetro-y-fuente-de-alimentación)
    * [Promedio de errores absoluto y relativo](#promedio-de-errores-absoluto-y-relativo)
-   * [Fotos de los datos](#fotos-de-todos-los-datos)
 * [Uso del Generador de Señales y Osciloscopio](#uso-del-generador-de-señales) 
-  * [Valores ajustados de la grafica y valores medidos de la señal de entrada en un periodo](#valores-ajustados-de-la-grafica-y-valores-medidos-de-la-señal-de-entrada-en-un-periodo) 
-     
-     * [Generador de Señales](#generador-de-señales)
-     * [Osciloscopio Digital](#osciloscopio-digital)
+  * [Valores ajustados de la grafica](#valores-ajustados-de-la-grafica) 
+  * [Valores medidos de la señal de entrada en un periodo](#valores-medidos-de-la-señal-de-entrada-en-un-periodo)
+
 
 ## Materiales
    * Fuente de alimentación regulable (HY3005BC )
@@ -24,10 +22,7 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
 
 
 ## Uso del multímetro y Fuente de alimentación
-Para poder obtener nuestra recopilación de datos, comenzamos teniendo a nuestra disposición la Fuente de alimentación y un multímetro, además como implemento adicional unos par de cables cocodrilos. 
-Empezamos conectando a la corriente la Fuente de alimentación y encendiéndola; con el multímetro colocamos sus cable correspondiente en tierra y voltaje, además lo ponemos en la opción voltaje(AC-DC). 
-Ahora con la fuente de alimentación, nos está pidiendo configurarlo a 5V y 1A, entonces tenemos que regular el voltaje y la corriente con las medidas indicadas. Para continuar, con la ayuda de los cables de cocodrilos lo unimos con los cables del multímetro y el otro extremo lo colamos en las salidas(-/+) de la fuente. 
-Ya teniendo todo encendido y conectado, al presionar el botón Output que habilita la tensión de salida mostrándonos en el multímetro su valor medido. Para concluir, hicimos 10 mediciones desde el voltaje 5V hasta 14V para después calcular sus error absoluto y error relativo del multímetro .
+
 
 ### Promedio de errores absoluto y relativo:
 <div style="text-align:center;">
@@ -116,29 +111,40 @@ Ya teniendo todo encendido y conectado, al presionar el botón Output que habili
 		</tr>      
 	</table>
     </div>
-		    
-### Fotos de todos los datos
-
-| <!-- -->      | <!-- -->        | 
-|:-------------:|:---------------:|
-|![Dato1](https://github.com/Dooncito/fundamentos-de-dise-o/blob/703f38db74b7585dd59aa5495e9ef399025d9ff2/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.02_085b0f56.jpg)       |  ![dato2](https://github.com/Dooncito/fundamentos-de-dise-o/blob/703f38db74b7585dd59aa5495e9ef399025d9ff2/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.01_77c8b35a.jpg)   |
-| Dato#1 5V       | Dato#2 6V       | 
-|![Dato3](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0045c4cc9771b9c136ec8f0d969115dec8c548cd/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.01_9f1547ca.jpg)       |  ![dato4](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0045c4cc9771b9c136ec8f0d969115dec8c548cd/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.51_6c178c32.jpg)   |
-| Dato#3 7V       | Dato#4 8V       | 
-|![Dato5](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.44_c568c30e.jpg)       |  ![dato6](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_8357af24.jpg)   |
-| Dato#5 9V       | Dato#6 10V       | 
-|![Dato7](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_2623ec21.jpg)      |  ![dato8](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_1ca4a2c4.jpg)   |
-| Dato#7 11V       | Dato#8 12V       | 
-|![Dato9](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.35_3694b7b8.jpg)       |  ![dato10](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.03_abec248e.jpg)   |
-| Dato#9 13V       | Dato#10 14V       | 	    
-
 
 ## Uso del Generador de Señales y Osciloscopio
-En este procedimiento nos pide ajustar los valores para visualizar la grafica deseada. Conctando el generador de Señales con el Osciloscopio, los dos estanfo en el cañal 1 conectados por un cable BNC(Male-Male). Controlando la posicion vertical, la horizontal y el disparo.Así mismo, visualizando la señal sinusoida, haciendo uso los cursores y monstrar en el Osciloscopio las mediciones del Amplitud y Periodo que nos da la señal.  
 
+En este experimento la consigna era modificar los parámetros de posición horizontal, vertical y disparo para ajustar la visualización de la señal sinusoidal en el osciloscopio, la cual es obtenida mediante el generador de señales.
 
-### Valores ajustados de la grafica y valores medidos de la señal de entrada en un periodo 
+Función de los instrumentos usados en esta sesión:
 
-#### Generador de señales:
+- Generador de señales: Emite señales eléctricas de frecuencias y amplitudes específicas, esencial para probar, calibrar y experimentar con dispositivos electrónicos.
 
-#### Osciloscopio Digital: 
+- Osciloscopio digital: Muestra visualmente la forma de onda de señales, permitiendo a los técnicos analizar la amplitud, frecuencia y otros parámetros, con capacidades avanzadas de procesamiento y almacenamiento de datos
+
+Primero conectamos mediante un cable BNC a ambos dispositivos en el canal 1, posteriormente ajustamos el generador de señales en los siguientes parámetros:
+
+ - Frecuencia: 10khz
+ - Amplitud: 2,5V
+ - Offset: 0V
+
+![Descripción de la imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/bf121f668855a956393db675a95042635661d115/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2017.00.42_4287fac1.jpg)
+
+### Valores ajustados de la grafica
+
+Se ajustaron los siguientes valores para sincronizar el voltaje en el osciloscopio:
+- Escala de división vertical: 665V
+- Amplitud máxima: 2.5kV
+- Amplitud mínima: 0V
+- Tiempo: 20μs
+- Tasa de muestreo: 62,5MS/s
+- Tiempo de registro: 20k ptos
+
+Valores encontrados post-ajustes:
+- Frecuencia: 10kHZ
+- Voltaje pico: 1,01kV
+- Variación de amplitud: 2,5kV
+
+Al final nó se lograron los valores pedidos, debido a que el valor de la escala de división vertical fue ajustado erroneamente en 665V.
+
+### Valores medidos de la señal de entrada en un periodo 
