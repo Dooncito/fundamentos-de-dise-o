@@ -164,6 +164,7 @@ Valores encontrados post-ajustes:
 Al final nó se lograron obtener los valores solicitados, debido a que el valor de la escala de división vertical fue ajustado erroneamente en 665V.
 
 ### Valores medidos de la señal de entrada en un periodo 
+Valores:
 -Amplitud: 2.50kV
 -Periodo: 100
 -Frecuencia : 1/ 100 = 0.01
