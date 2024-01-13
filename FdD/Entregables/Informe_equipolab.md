@@ -23,7 +23,10 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
 
 
 ## Uso del multímetro y Fuente de alimentación
-
+Para poder obtener nuestra recopilación de datos, comenzamos teniendo a nuestra disposición la Fuente de alimentación y un multímetro, además como implemento adicional unos par de cables cocodrilos. 
+Empezamos conectando a la corriente la Fuente de alimentación y encendiéndola; con el multímetro colocamos sus cable correspondiente en tierra y voltaje, además lo ponemos en la opción voltaje(AC-DC). 
+Ahora con la fuente de alimentación, nos está pidiendo configurarlo a 5V y 1A, entonces tenemos que regular el voltaje y la corriente con las medidas indicadas. Para continuar, con la ayuda de los cables de cocodrilos lo unimos con los cables del multímetro y el otro extremo lo colamos en las salidas(-/+) de la fuente. 
+Ya teniendo todo encendido y conectado, al presionar el botón Output que habilita la tensión de salida mostrándonos en el multímetro su valor medido. Para concluir, hicimos 10 mediciones desde el voltaje 5V hasta 14V para después calcular sus error absoluto y error relativo del multímetro .
 
 ### Promedio de errores absoluto y relativo:
 <div style="text-align:center;">
@@ -114,6 +117,22 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
     </div>
 		    
 ### Fotos de todos los datos
+<<<<<<< HEAD
+
+| <!-- -->      | <!-- -->        | 
+|:-------------:|:---------------:|
+|![Dato1](https://github.com/Dooncito/fundamentos-de-dise-o/blob/703f38db74b7585dd59aa5495e9ef399025d9ff2/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.02_085b0f56.jpg)       |  ![dato2](https://github.com/Dooncito/fundamentos-de-dise-o/blob/703f38db74b7585dd59aa5495e9ef399025d9ff2/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.01_77c8b35a.jpg)   |
+| Dato#1 5V       | Dato#2 6V       | 
+|![Dato3](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0045c4cc9771b9c136ec8f0d969115dec8c548cd/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.01_9f1547ca.jpg)       |  ![dato4](https://github.com/Dooncito/fundamentos-de-dise-o/blob/0045c4cc9771b9c136ec8f0d969115dec8c548cd/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.51_6c178c32.jpg)   |
+| Dato#3 7V       | Dato#4 8V       | 
+|![Dato5](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.44_c568c30e.jpg)       |  ![dato6](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_8357af24.jpg)   |
+| Dato#5 9V       | Dato#6 10V       | 
+|![Dato7](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_2623ec21.jpg)      |  ![dato8](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_1ca4a2c4.jpg)   |
+| Dato#7 11V       | Dato#8 12V       | 
+|![Dato9](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.35_3694b7b8.jpg)       |  ![dato10](https://github.com/Dooncito/fundamentos-de-dise-o/blob/a9c7ba4ec8b01229b20789a3b9dd1299347f49f6/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.03_abec248e.jpg)   |
+| Dato#9 13V       | Dato#10 14V       | 	    
+
+
 N°1:
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.02_085b0f56.jpg)
 
@@ -144,6 +163,7 @@ N°9:
 N°10:
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.03_abec248e.jpg)
 		    
+>>>>>>> a9c7ba4ec8b01229b20789a3b9dd1299347f49f6
 ## Uso del Generador de Señales y Osciloscopio
 
 
