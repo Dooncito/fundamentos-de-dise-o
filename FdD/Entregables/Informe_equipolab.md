@@ -8,8 +8,8 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
    * [Promedio de errores absoluto y relativo](#promedio-de-errores-absoluto-y-relativo)
    * [Fotos de los datos](#fotos-de-todos-los-datos)
 * [Uso del Generador de Señales y Osciloscopio](#uso-del-generador-de-señales) 
-  * [Valores ajustados de la grafica](#valores-ajustados-de-la-grafica) 
-  * [Valores medidos de la señal de entrada en un periodo](#valores-medidos-de-la-señal-de-entrada-en-un-periodo)
+  * [Valores ajustados de la grafica y valores medidos de la señal de entrada en un periodo](#valores-ajustados-de-la-grafica-y-valores-medidos-de-la-señal-de-entrada-en-un-periodo) 
+ 
 
 
 ## Materiales
@@ -136,6 +136,4 @@ Ya teniendo todo encendido y conectado, al presionar el botón Output que habili
 En este procedimiento nos pide ajustar los valores para visualizar la grafica deseada. Conctando el generador de Señales con el Osciloscopio, los dos estanfo en el cañal 1 conectados por un cable BNC(Male-Male). Controlando la posicion vertical, la horizontal y el disparo.Así mismo, visualizando la señal sinusoida, haciendo uso los cursores y monstrar en el Osciloscopio las mediciones del Amplitud y Periodo que nos da la señal.  
 
 
-### Valores ajustados de la grafica
-
-### Valores medidos de la señal de entrada en un periodo 
+## Valores ajustados de la grafica y valores medidos de la señal de entrada en un periodo 
