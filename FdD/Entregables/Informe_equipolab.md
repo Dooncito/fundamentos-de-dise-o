@@ -23,6 +23,7 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
 
 ## Uso del multímetro y Fuente de alimentación
 
+
 ### Promedio de errores absoluto y relativo:
 <div style="text-align:center;">
 	<table border="1" style="margin: 0 auto;">
