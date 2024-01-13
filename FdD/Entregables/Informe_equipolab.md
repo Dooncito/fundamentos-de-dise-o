@@ -167,4 +167,5 @@ Al final nó se lograron obtener los valores solicitados, debido a que el valor 
 -Amplitud: 2.50kV
 -Periodo: 100
 -Frecuencia : 1/ 100 = 0.01
+![Descripción de la imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/lab2/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2023.36.34_356a1585.jpg)
 
