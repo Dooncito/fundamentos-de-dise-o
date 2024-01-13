@@ -112,6 +112,7 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
 		</tr>      
 	</table>
     </div>
+		    
 ### Fotos de todos los datos
 		    
 ## Uso del Generador de Señales y Osciloscopio
