@@ -133,7 +133,7 @@ N°6:
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_8357af24.jpg)
 
 N°7:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.02_085b0f56.jpg)
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_2623ec21.jpg)
 
 N°8:
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_1ca4a2c4.jpg)
@@ -142,7 +142,7 @@ N°9:
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.35_3694b7b8.jpg)
 
 N°10:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.02_085b0f56.jpg)
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.03_abec248e.jpg)
 		    
 ## Uso del Generador de Señales y Osciloscopio
 
