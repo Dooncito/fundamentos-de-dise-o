@@ -133,7 +133,7 @@ Ya teniendo todo encendido y conectado, al presionar el botón Output que habili
 
 
 ## Uso del Generador de Señales y Osciloscopio
-
+En este procedimiento nos pide ajustar los valores para visualizar la grafica deseada. Conctando el generador de Señales con el Osciloscopio, los dos estanfo en el cañal 1 conectados por un cable BNC(Male-Male). Controlando la posicion vertical, la horizontal y el disparo.Así mismo, visualizando la señal sinusoida, haciendo uso los cursores y monstrar en el Osciloscopio las mediciones del Amplitud y Periodo que nos da la señal.  
 
 
 ### Valores ajustados de la grafica
