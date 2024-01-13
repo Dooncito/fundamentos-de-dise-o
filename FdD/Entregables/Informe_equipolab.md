@@ -117,5 +117,5 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
 
 
 ### Valores ajustados de la grafica
-![imagen](<WhatsApp Image 2024-01-12 at 5.00.43 PM-1.jpeg>)
+
 ### Valores medidos de la señal de entrada en un periodo 
