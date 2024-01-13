@@ -7,7 +7,7 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
 * [Uso del multímetro y Fuente de alimentación](#uso-del-multímetro-y-fuente-de-alimentación)
    * [Promedio de errores absoluto y relativo](#promedio-de-errores-absoluto-y-relativo)
    * [Fotos de los Datos](#fotos-de-todos-los-datos)
-* [Uso del Generador de Señales y Osciloscopio](#uso-del-generador-de-señales) 
+* [Uso del Generador de Señales y Osciloscopio](#uso-del-generador-de-señales-y-osciloscopio) 
   * [Valores ajustados de la grafica](#valores-ajustados-de-la-grafica) 
   * [Valores medidos de la señal de entrada en un periodo](#valores-medidos-de-la-señal-de-entrada-en-un-periodo)
 
