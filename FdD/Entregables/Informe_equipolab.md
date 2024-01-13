@@ -117,7 +117,6 @@ Ya teniendo todo encendido y conectado, al presionar el botón Output que habili
     </div>
 		    
 ### Fotos de todos los datos
-<<<<<<< HEAD
 
 | <!-- -->      | <!-- -->        | 
 |:-------------:|:---------------:|
@@ -133,37 +132,6 @@ Ya teniendo todo encendido y conectado, al presionar el botón Output que habili
 | Dato#9 13V       | Dato#10 14V       | 	    
 
 
-N°1:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.02_085b0f56.jpg)
-
-N°2:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.01_77c8b35a.jpg)
-
-N°3:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.01_9f1547ca.jpg)
-
-N°4:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.51_6c178c32.jpg)
-
-N°5:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.44_c568c30e.jpg)
-
-N°6:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_8357af24.jpg)
-
-N°7:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_2623ec21.jpg)
-
-N°8:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.36_1ca4a2c4.jpg)
-
-N°9:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.07.35_3694b7b8.jpg)
-
-N°10:
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20lab/Imagen%20de%20WhatsApp%202024-01-12%20a%20las%2015.08.03_abec248e.jpg)
-		    
->>>>>>> a9c7ba4ec8b01229b20789a3b9dd1299347f49f6
 ## Uso del Generador de Señales y Osciloscopio
 
 
