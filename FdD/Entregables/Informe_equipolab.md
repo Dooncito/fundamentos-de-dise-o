@@ -145,6 +145,6 @@ Valores encontrados post-ajustes:
 - Voltaje pico: 1,01kV
 - Variación de amplitud: 2,5kV
 
-Al final nó se lograron los valores pedidos, debido a que el valor de la escala de división vertical fue ajustado erroneamente en 665V.
+Al final nó se lograron obtener los valores solicitados, debido a que el valor de la escala de división vertical fue ajustado erroneamente en 665V.
 
 ### Valores medidos de la señal de entrada en un periodo 
