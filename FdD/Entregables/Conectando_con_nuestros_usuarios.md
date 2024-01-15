@@ -12,8 +12,8 @@
 ## Referencias:
 - Organización Mundial de la Salud (OMS). (15 de diciembre de 2023). Household air pollution and health. https://www.who.int/es/news-room/fact-sheets/detail/household-air-pollution-and-health
 
-- Redacción. (27 de julio de 2023). Cocinas sucias; un tercio de la población aún usa leña o carbón para cocinar. https://netnoticias.mx/de-interes/cocinas-sucias-un-tercio-de-la-poblacion-aun-usa-lena-o-carbon-para-cocinar
+- Net Noticias. (27 de julio de 2023). Cocinas sucias; un tercio de la población aún usa leña o carbón para cocinar. https://netnoticias.mx/de-interes/cocinas-sucias-un-tercio-de-la-poblacion-aun-usa-lena-o-carbon-para-cocinar
 
 - Wong, E. (2022). Implementación de cocinas mejoradas a leña y disminución de GEI. Ingeniería Investiga, 4, e712. https://doi.org/10.47796/ing.v4i0.712
 
-- Redacción ContentLab. (8 de septiembre de 2021). La cocina sostenible: el impacto de cocinar con menos leña. https://especial.elcomercio.pe/perusostenible/la-cocina-sostenible-el-impacto-de-cocinar-con-menos-lena/
+- El Comercio. (8 de septiembre de 2021). La cocina sostenible: el impacto de cocinar con menos leña. https://especial.elcomercio.pe/perusostenible/la-cocina-sostenible-el-impacto-de-cocinar-con-menos-lena/
