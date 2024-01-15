@@ -3,10 +3,13 @@ Encontraras diagramas que nos explicara mas la situación y problematica que nos
 
 ### Indice:
 * [Diagrama de empatía](#diagrama-de-empatía)
-  * [Referencias](#referencia)
-* [Journey Map/ Mapa de viaje](#mapa-de-viaje)  
-* [Diagrama de Ishikawa](#referencia)
+  * [Referencias](#referencias)
+* [Journey Map/ Mapa de viaje](#mapa-de-viaje)
+  * [Referencias](#referencias)
+* [Diagrama de Ishikawa](#diagrama-de-ishikawa)
+  * [Referencias](#referencias)
 
+    
 ## Diagrama de empatía
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/cdb86843dfa99de9dab540eb89a04d1d63d54eca/Imagenes/img%20entregable2/Mapa%20empat%C3%ADa.jpg)
 
@@ -29,7 +32,7 @@ Encontraras diagramas que nos explicara mas la situación y problematica que nos
 
 - El Comercio. (8 de septiembre de 2021). La cocina sostenible: el impacto de cocinar con menos leña. https://especial.elcomercio.pe/perusostenible/la-cocina-sostenible-el-impacto-de-cocinar-con-menos-lena/
 
-
+## Diagrama de Ishikawa
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/c42b4f47f21e4fb4925375257be87dc1b9a5e6d4/Imagenes/img%20entregable2/diagrama_ishikawa.jpg)
 ### Referencias:
 - Wong, E. (2022). Implementación de cocinas mejoradas a leña y disminución de GEI. Ingeniería Investiga, 4, e712. https://doi.org/10.47796/ing.v4i0.712
