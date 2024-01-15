@@ -1,10 +1,10 @@
 # Contexto Social y Económico 
 
 ###  *Indice:*
-* [Contexto Social](#contexto-económico)
+* [Contexto Social](#contexto-social)
   * [Contexto social mundial](#contexto-económico-mundial)
   * [Contexto social nacional](#contexto-social-nacional)
-* [Contexto Económico](#contexto-social)
+* [Contexto Económico](#contexto-económico)
     * [Contexto económico mundial](#contexto-económico-mundial)
     * [Contexto económico latioamérica/Caribe](#contexto-económico-latinoaméricacaribe)
     * [Contexto económico nacional](#contexto-económico-nacional)
