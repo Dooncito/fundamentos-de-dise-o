@@ -56,16 +56,28 @@ Las regiones centrales del Perú albergan una significativa porción de los recu
 
 
 Bibliografía
+Acceso a tecnologías y combustibles limpios para cocinar (% de la población) - Latin America & Caribbean, Peru. (s/f). World Bank Open Data. Recuperado el 15 de enero de 2024, de https://datos.bancomundial.org/indicador/EG.CFT.ACCS.ZS?end=2021&locations=ZJ-PE&most_recent_year_desc=false&start=2000&view=chart
+
 el Perú, P. P. A. el A. U. a. la E. en. (s/f). Energización rural mediante el uso de energías renovables para fomentar un desarrollo integral y sostenible. Edu.pe. Recuperado el 15 de enero de 2024, de https://repositorio.pucp.edu.pe/index/bitstream/handle/123456789/64216/varios_propuestas_acceso_energia.pdf?sequence=1&isAllowed=y
 
 Especial, E. (s/f). Informe de los Objetivos de Desarrollo Sostenible. Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2023/The-Sustainable-Development-Goals-Report-2023_Spanish.pdf?_gl=1*jcewmb*_ga*MTkwNDE4MjgxMi4xNzA1MDE2MTY3*_ga_TK9BQL5X7Z*MTcwNTI3NjQ0Mi45LjAuMTcwNTI3NjQ0Mi4wLjAuMA..
+
+Global, G. (2022, marzo 25). Precio del gas natural en los mercados internacionales. GNL GLOBAL. https://gnlglobal.com/precio-del-gas-natural-en-los-mercados-internacionales/
 
 Minem: Energías renovables representan el 5% de la matriz energética del Perú. (s/f). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.minem.gob.pe/_detallenoticia.php?idSector=9&idTitular=9581
 
 Peru. (s/f). IEA. Recuperado el 15 de enero de 2024, de https://www.iea.org/countries/peru
 
+Precios al consumidor en Lima Metropolitana aumentaron 0,52% en noviembre de 2020. (s/f). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.gob.pe/institucion/inei/noticias/534972-precios-al-consumidor-en-lima-metropolitana-aumentaron-0-52-en-noviembre-de-2020
+
+Producción de electricidad a partir de fuentes de petróleo, gas y carbón (% del total) - Latin America & Caribbean. (s/f). World Bank Open Data. Recuperado el 15 de enero de 2024, de https://datos.bancomundial.org/indicador/EG.ELC.FOSL.ZS?end=2015&locations=ZJ&start=1990
+
+United Nations. (s/f). Energías renovables: energías para un futuro más seguro | Naciones Unidas. Recuperado el 15 de enero de 2024, de https://www.un.org/es/climatechange/raising-ambition/renewable-energy
+
 Vista de Análisis de la Regulación de Energías Renovables en el Perú. (s/f). Edu.pe. Recuperado el 15 de enero de 2024, de https://revistas.pucp.edu.pe/index.php/derechoysociedad/article/view/15235/15703
 
-(S/f). Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2022/The-Sustainable-Development-Goals-Report-2022_Spanish.pdf
+(S/f-a). Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2022/The-Sustainable-Development-Goals-Report-2022_Spanish.pdf
 
+(S/f-b). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1881/libro.pdf
 
+(S/f-c). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1664/libro.pdf
