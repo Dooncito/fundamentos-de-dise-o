@@ -1,6 +1,6 @@
-Contexto social:
+###Contexto social:
 
-Contexto social mundial 
+##Contexto social mundial 
 
 El acceso a servicios energéticos no contaminantes tienen un gran impacto en el desarrollo sostenible. La energía no contaminante es una fuente de energía sostenible que ayuda a no depender de los combustibles fósiles, ya que estos tienen un efecto negativo en la salud del ser humano y del medio ambiente. Sin embargo, no es accesible en muchos lugares ya sea por la falta de economía o por el difícil acceso. 
 
@@ -33,7 +33,7 @@ Proporción de la población con acceso a energía eléctrica
 [img3]
 Nota. Proporción desde el 2010 hasta el 2020. Tomado de (unstats,2022)
 
-Contexto social nacional 
+##Contexto social nacional 
 
 En un panorama nacional, según Minem(2019) “Energías renovables representan el 5% de la matriz energética del Perú” . Esto es un desafío evidente en la empleabilidad de más fuentes de energía y explorar más alternativas que sean sostenibles 
 
@@ -52,7 +52,7 @@ Según Mitma Ramirez(2015), profesor de postgrado de la universidad ESAN, el Per
 Las regiones centrales del Perú albergan una significativa porción de los recursos energéticos del país. Sin embargo, hay otro escenario en las zonas rurales , el 40.5% de los habitantes no tienen acceso a la energía.La carencia del acceso a la energía es una realidad para dos millones de hogares, obligando a ellos a utilizar métodos rudimentarios para la elaboración de sus alimentos, estos métodos tienen un efecto negativo al medio ambiente y la salud de los pobladores; también como consecuencia sufren de las heladas de la región andina, poniendo en riesgo sus vidas (PUCP,2016).
 
 
-referencias:
+##referencias:
 
 
 Bibliografía
