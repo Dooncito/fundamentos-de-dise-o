@@ -13,7 +13,7 @@ Cifra absoluta de personas y proporción de la población mundial con acceso a
 combustibles y tecnologías no contaminantes para cocinar, 2015-2021
 (miles de millones y porcentaje)
 
-[img1]
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20contexto%20social/img1%20.jpg)
 Nota. Proporción del 2015 al 2021. Tomado de (unstats,2023)
 
 ### Figura 2
@@ -21,7 +21,7 @@ Nota. Proporción del 2015 al 2021. Tomado de (unstats,2023)
 Población con acceso a sistemas para cocinar no contaminantes, 2020
 (porcentaje)
 
-[img2]
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20contexto%20social/img2.jpg)
 Nota. Gráfico geográfico con valores en porcentaje. Tomado de (unstats,2022)
 
 Por otro lado , del año 2010 al 2020 aumentó la tasa de accesibilidad de un 81% a 91%. Las cifras se redujeron de 1,2 mil millones a 733 millones. Sin embargo, con la llegada del Covid-19 redujo el proceso , dando como resultado que sea más difícil alcanzar la accesibilidad energética.
@@ -30,7 +30,7 @@ Por otro lado , del año 2010 al 2020 aumentó la tasa de accesibilidad de un 81
 
 Proporción de la población con acceso a energía eléctrica
 
-[img3]
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20contexto%20social/img3.jpg)
 Nota. Proporción desde el 2010 hasta el 2020. Tomado de (unstats,2022)
 
 ## Contexto Social Nacional
@@ -43,7 +43,7 @@ De acuerdo a la agencia internacional de la energía (IEA,2022) , en el Perú de
 
 
 Oferta total de energía (TES) por fuente, Perú 1990-2022
-[img4]
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20contexto%20social/img4.jpg)
 Nota. Gráfico de uso de combustibles en el Perú. Tomado de (IEA,2022)
 
 
