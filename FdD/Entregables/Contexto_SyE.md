@@ -51,6 +51,45 @@ Según Mitma Ramirez(2015), profesor de postgrado de la universidad ESAN, el Per
 
 Las regiones centrales del Perú albergan una significativa porción de los recursos energéticos del país. Sin embargo, hay otro escenario en las zonas rurales , el 40.5% de los habitantes no tienen acceso a la energía.La carencia del acceso a la energía es una realidad para dos millones de hogares, obligando a ellos a utilizar métodos rudimentarios para la elaboración de sus alimentos, estos métodos tienen un efecto negativo al medio ambiente y la salud de los pobladores; también como consecuencia sufren de las heladas de la región andina, poniendo en riesgo sus vidas (PUCP,2016).
 
+# Contexto económico 
+
+## Contexto económico mundial
+
+Si bien actualmente la tendencia tanto el crudo de petróleo como el gas natural han demostrado una disminución de su precio. El aumento en sus precios durante el 2022 resultaron en mayores costos para los consumidores domésticos y las empresas. Esto se traduce en gastos adicionales para la calefacción, la cocina y la producción de bienes y servicios, afectando los presupuestos tanto a nivel individual como empresarial. Y al ser energías no renovables, su precio a futuro se incrementará debido a la escasez de las mismas, un ejemplo es el gas natural. Según un informe de GnL global, en Estados Unidos el precio del gas se incrementó en un 12,6 % en comparación con años anteriores en el centro de distribución de gas natural Henry Hub (Figura 1).
+
+En Europa, el precio del gas se incrementó a partir del año 2022 debido al conflicto iniciado entre Rusia y Ucrania, sin embargo, a partir de agosto del 2022, el precio del gas tendió a bajar hasta posicionarse por debajo de la media de los últimos 5 años (Bcrp.gob. 2023) y según proyecciones del Banco Mundial, se estima que el precio del gas seguirá en esta tendencia decreciente entre 2023 y 2024. 
+
+### Figura 5
+
+[img]
+Nota. Gráfico del precio Spot del gas natural en el Henry Hub. Tomado de (CME group, 2022)
+
+### Figura 6
+[img]
+Nota. Gráfico del precio del gas natural en Europa. Tomado de (BCRP. 2023)
+
+Además, en el año 2020, se destinaron alrededor de 5,9 trillones de dólares en subvenciones al sector de los combustibles fósiles, cubriendo tanto ayudas explícitas como reducciones fiscales, así como los costos ambientales y de salud que no se reflejaron completamente en el precio de estos combustibles. En contraste, se estima que se requerirá una inversión anual de aproximadamente 4 trillones de dólares en energías renovables hasta 2030, abarcando tanto tecnología como infraestructura, para lograr el objetivo de alcanzar emisiones netas cero para el año 2050.
+
+Este desembolso inicial puede resultar desafiante para muchos países que carecen de los recursos necesarios, y muchos requerirán asistencia financiera y técnica para llevar a cabo la transición. Sin embargo, las inversiones en energías renovables ofrecerán retornos significativos. La simple reducción de la contaminación y del impacto negativo en el clima podría generar ahorros globales de hasta 4,2 trillones de dólares anuales para el año 2030.(ONU.2020)
+
+## Contexto Económico Latinoamérica/Caribe
+
+En América Latina y el Caribe, según datos del Banco Mundial, un 89% de la población tienen acceso fuentes de energías limpias para la preparación de alimentos, al contrario, cerca del 11 % de su población no cuentan con acceso a tecnologías y combustibles limpios para cocinar sus alimentos,  reflejando así que aún hay varios sectores donde servicios como la electricidad o el gas Natural son escasos o nulos, en especial en zonas rurales, esta inaccesibilidad energética provoca un estancamiento socioeconómico en dicha zona.
+El estancamiento se vé reflejada económicamente en pérdida en sectores como: agrícolas, ganadería, turismo, tiempo de trabajo perdido y gastos en la salud pública.
+
+### Figura 7
+
+[img]
+Nota. Gráfica del acceso a tecnologias y combustibles limpios para cocinar alimentos.Tomado de (Banco Mundial. 2015)
+
+## Contexto económico nacional
+
+A nivel nacional, el acceso a dichas tecnologías y combustibles limpios para la preparación de alimentos está por debajo del promedio a nivel latinoamericano ( un 86%), si bien el Perú realizó campañas y fuertes inversiones para incrementar el accesos de dichas fuentes de energías a lo largo de los años, un 14% de la población peruana no cuenta con accesos a dichas fuentes para la preparación de sus alimentos, siendo así uno de los paises con mas estancamiento socioeconómicos en zonas rurales a nivel Sudamericano. 
+
+### Figura 8
+
+[img]
+Nota. Gráfica comparativa entre el promedio Latino/Caribe con el Perú en cuanto a la accesibilidad a tecnologías y combustibles limpios para la preparación de alimentos. Tomado de( Banco Mundial. 2022)
 
 **Referencias:**
 
