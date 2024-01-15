@@ -6,7 +6,7 @@ Adicionalmente, es preocupante la falta de apoyo por parte de las autoridades lo
 
 figura 1
 PERÚ: HOGARES QUE COCINAN CON COMBUSTIBLES CONTAMINANTES, POR ÁREA DE RESIDENCIA, SEGÚN TENENCIA Y TITULARIDAD DE LA VIVIENDA QUE OCUPAN, 2017 (Porcentaje)
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20contexto%20social/img1%20.jpg)
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/imgPro.jpg)
 Nota. Gráfico en porcentajes. Tomada de (INEI,2017)
 
 **Referencias:**
