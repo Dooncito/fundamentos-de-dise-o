@@ -1,13 +1,13 @@
 # Conexión con nuestros usuarios
-Encontraras diagramas que nos explicara mas la situación y problematica que nos hizo elegir esta causa. 
+Descripción de los diagramas que nos explica más la situación y problemática que nos hizo elegir esta causa. 
 
 ### Indice:
 * [Diagrama de empatía](#diagrama-de-empatía)
   * [Referencias](#referencias)
 * [Journey Map/ Mapa de viaje](#mapa-de-viaje)
-  * [Referencias](#referencias)
+  * [Referencias](#referencias-1)
 * [Diagrama de Ishikawa](#diagrama-de-ishikawa)
-  * [Referencias](#referencias)
+  * [Referencias](#referencias-2)
 
     
 ## Diagrama de empatía
