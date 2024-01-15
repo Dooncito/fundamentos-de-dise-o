@@ -68,4 +68,6 @@ Vista de Análisis de la Regulación de Energías Renovables en el Perú. (s/f).
 
 (S/f). Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2022/The-Sustainable-Development-Goals-Report-2022_Spanish.pdf
 
+# Contexto Social 
 
+## Contexto Económico 
