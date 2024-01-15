@@ -4,7 +4,7 @@ En las áreas rurales de Lima 2, nos enfrentamos a un serio problema vinculado a
 
 Adicionalmente, es preocupante la falta de apoyo por parte de las autoridades locales y nacionales para facilitar el acceso a fuentes de energía alternativas en estas zonas rurales. Esto fuerza a las familias a depender de combustibles fósiles más asequibles, como la leña, el carbón o el queroseno, a pesar de su mayor impacto contaminante y sus consecuencias negativas para la salud.
 
-figura 1
+### figura 1
 PERÚ: HOGARES QUE COCINAN CON COMBUSTIBLES CONTAMINANTES, POR ÁREA DE RESIDENCIA, SEGÚN TENENCIA Y TITULARIDAD DE LA VIVIENDA QUE OCUPAN, 2017 (Porcentaje)
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/imgPro.jpg)
 Nota. Gráfico en porcentajes. Tomada de (INEI,2017)
