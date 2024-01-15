@@ -61,11 +61,11 @@ En Europa, el precio del gas se incrementó a partir del año 2022 debido al con
 
 ### Figura 5
 
-[img]
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20econ%C3%B3mico/con1.jpg)
 Nota. Gráfico del precio Spot del gas natural en el Henry Hub. Tomado de (CME group, 2022)
 
 ### Figura 6
-[img]
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20econ%C3%B3mico/con2.jpg)
 Nota. Gráfico del precio del gas natural en Europa. Tomado de (BCRP. 2023)
 
 Además, en el año 2020, se destinaron alrededor de 5,9 trillones de dólares en subvenciones al sector de los combustibles fósiles, cubriendo tanto ayudas explícitas como reducciones fiscales, así como los costos ambientales y de salud que no se reflejaron completamente en el precio de estos combustibles. En contraste, se estima que se requerirá una inversión anual de aproximadamente 4 trillones de dólares en energías renovables hasta 2030, abarcando tanto tecnología como infraestructura, para lograr el objetivo de alcanzar emisiones netas cero para el año 2050.
@@ -79,7 +79,7 @@ El estancamiento se vé reflejada económicamente en pérdida en sectores como: 
 
 ### Figura 7
 
-[img]
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20econ%C3%B3mico/con3.jpg)
 Nota. Gráfica del acceso a tecnologias y combustibles limpios para cocinar alimentos.Tomado de (Banco Mundial. 2015)
 
 ## Contexto económico nacional
@@ -88,7 +88,7 @@ A nivel nacional, el acceso a dichas tecnologías y combustibles limpios para la
 
 ### Figura 8
 
-[img]
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20econ%C3%B3mico/con4.jpg)
 Nota. Gráfica comparativa entre el promedio Latino/Caribe con el Perú en cuanto a la accesibilidad a tecnologías y combustibles limpios para la preparación de alimentos. Tomado de( Banco Mundial. 2022)
 
 **Referencias:**
