@@ -23,7 +23,7 @@ Descripción de los diagramas que nos explica más la situación y problemática
 - Novogas. (2023, 3 de julio). Más de un millón de hogares cocinan con leña en el Perú. https://www.linkedin.com/pulse/m%C3%A1s-de-un-mill%C3%B3n-hogares-cocinan-con-le%C3%B1a-en-el-per%C3%BA-novogaslatam/?originalSubdomain=es
 
 ## Mapa de viaje 
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20entregable2/Mapa%20de%20viaje.jpg)
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/viaje1.jpg)
 
 ### Referencias:
 - Organización Mundial de la Salud (OMS). (15 de diciembre de 2023). Household air pollution and health. https://www.who.int/es/news-room/fact-sheets/detail/household-air-pollution-and-health
