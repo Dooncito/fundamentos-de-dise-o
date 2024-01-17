@@ -36,4 +36,4 @@ Descripción de los diagramas que nos explica más la situación y problemática
 ![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/53378878b737f1a0fe8915701598b7383cce446b/Imagenes/img%20entregable2/actual_ishikawa.jpg))
 ### Referencias:
 - Wong, E. (2022). Implementación de cocinas mejoradas a leña y disminución de GEI. Ingeniería Investiga, 4, e712. https://doi.org/10.47796/ing.v4i0.712
-- - Ramos, I. (2019, 31 de agosto). "Somos pobres": Así es tener que cocinar con leña por obligación. https://www.radiofeyalegrianoticias.com/asi-es-tener-que-cocinar-con-lena-por-obligacion/
+- Ramos, I. (2019, 31 de agosto). "Somos pobres": Así es tener que cocinar con leña por obligación. https://www.radiofeyalegrianoticias.com/asi-es-tener-que-cocinar-con-lena-por-obligacion/
