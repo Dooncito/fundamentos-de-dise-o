@@ -3,13 +3,17 @@ Tiene como objetivo desarrollar en el estudiantecompetencias para diseñar, impl
 
 ## Tabla de contenidos:
 
-1. [Descripción](#Descripición) 
-2. [Contenido](#Contenido)
+1. [Contenido/Entregables](#Contenido)
     - [Unidad 1](#Unidad-1)
+      * [Sobre Nosotros](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Sobre_nosotros.md)
+      * [Informacion sobre equipos](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Informe_equipolab.md)
+      * [Contexto Social y Economico](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Contexto_SyE.md)
+      * [Problematica] (https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Def_prob.md)
+      * [Diagramas](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Conectando_con_nuestros_usuarios.md)
     - [Unidad 2](#Unidad-2)
     - [Unidad 3](#Unidad-3)
-3. [Evaluación](#Evaluación)
-4. [Docentes](#Docentes)
+2. [Evaluación](#Evaluación)
+3. [Docentes](#Docentes)
 
 ## Descripción 
 _En este curso se presenta a los estudiantes desafíos reales basados en problemáticasambientales dentro del contexto nacional. Se le brindará al estudiante conocimientos, comoel uso de dispositivos IoT e impresión 3D que le permitan crear soluciones a los problemasidentificados. Haciendo uso de las metodologías del diseño determinístico y designthinking, el alumno podrá identificar y analizar necesidades, diseñar conceptos de solucióny crear prototipos innovadores de baja resolución usando fabricación digital._
