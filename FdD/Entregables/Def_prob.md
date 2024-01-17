@@ -1,19 +1,19 @@
 # Problemática
+Huancavelica es una de las regiones con una alta tasa de uso de combustibles fósiles para cocinar, debido a la escases de recursos financieros por parte de sus habitantes; según el INEI el 23,1% de la población general usa combustibles limpios(INEI,2022), esto quiere decir que el otro 76,9% usan combustibles no limpios, esto genera consecuencias directas tanto en la salud de la población de huancavelica como en el medio ambiente. Uno de todos los contaminantes principales es el dioxido de carbono(CO2) este gas, es tóxico tanto como para los humanos y para el medio ambiente. Por el lado del impacto en la salud el exponerse al humo generado por el dióxido de carbono puede causar dolor de cabeza, dificultad para respirar; pero una exposición mas lata podría llegar  causar convulsiones, coma y hasta la muerte(NJHEALTH,2016). Por el lado del impacto ambiental este humo producido contribuye al sobrecalentamiento global y cambio climático, asimismo es uno de los gases responsables de producir el efecto invernadero(ecología verde,2019). Esto es un problema para las personas que se exponen a este gas tóxico y también para el personal y sistema de salud en Huancavelica, debido a la escasa información sobre las emisiones de CO2 en las viviendas y comunidades.
 
-En las áreas rurales de Lima 2, nos enfrentamos a un serio problema vinculado al uso de combustibles fósiles, lo cual tiene repercusiones negativas tanto en el medio ambiente como en la salud de la población. La situación se agrava debido al alto costo del gas licuado de petróleo (GLP) y a la falta de respaldo por parte de los gobiernos.
+### Figura 1
+Perú: Proporción de la población cuya fuente primaria de energía para cocinar los alimentos son los combustibles y
+tecnologías limpios, según departamento
+(Porcentaje)
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20entregable2/foto%20inei.jpg)
+Nota: Gráfico en porcentajes. Tomada de (INEI,2021)
 
-Adicionalmente, es preocupante la falta de apoyo por parte de las autoridades locales y nacionales para facilitar el acceso a fuentes de energía alternativas en estas zonas rurales. Esto fuerza a las familias a depender de combustibles fósiles más asequibles, como la leña, el carbón o el queroseno, a pesar de su mayor impacto contaminante y sus consecuencias negativas para la salud.
+### Referencias:
 
-### figura 1
-PERÚ: HOGARES QUE COCINAN CON COMBUSTIBLES CONTAMINANTES, POR ÁREA DE RESIDENCIA, SEGÚN TENENCIA Y TITULARIDAD DE LA VIVIENDA QUE OCUPAN, 2017 (Porcentaje)
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/imgPro.jpg)
-Nota. Gráfico en porcentajes. Tomada de (INEI,2017)
+- Instituto Nacional de Estadística e Informática (INEI). (diciembre de 2022). Libro estadístico. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1881/libro.pdf
 
-**Referencias:**
+- New Jersey Department of Health. (julio de 2016). Lead in Water: Reducing Lead Exposure - Spanish. https://www.nj.gov/health/eoh/rtkweb/documents/fs/0343sp.pdf
 
-Peru. Instituto Nacional de Estadística e Informática. (2019). Hogares en los que cocinan con combustibles contaminantes. En Hogares en los que cocinan con combustibles contaminantes (pp. 56–56).
+- Ecología Verde. (3 de abril de 2019). El impacto medioambiental del dióxido de carbono. https://www.ecologiaverde.com/el-impacto-medioambiental-del-dioxido-de-carbono-1334.html
 
-(S/f-a). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/cuadro_10_3.xlsx
-
-(S/f-b). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/cuadro_11_3.xlsx
 
