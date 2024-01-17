@@ -8,7 +8,7 @@ Tiene como objetivo desarrollar en el estudiantecompetencias para diseñar, impl
       * [Sobre Nosotros](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Sobre_nosotros.md)
       * [Informacion sobre equipos](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Informe_equipolab.md)
       * [Contexto Social y Economico](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Contexto_SyE.md)
-      * [Problematica](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Def_prob.md)
+      * [Problematica](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/FdD%2FEntregables%2FDef_prob.md)
       * [Diagramas](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Conectando_con_nuestros_usuarios.md)
     - [Unidad 2](#Unidad-2)
     - [Unidad 3](#Unidad-3)
