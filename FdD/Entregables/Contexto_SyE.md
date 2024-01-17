@@ -113,26 +113,26 @@ Nota.Gráfica comparativa entre el promedio Latino/Caribe con el Perú en cuanto
 Bibliografía
 Acceso a tecnologías y combustibles limpios para cocinar (% de la población) - Latin America & Caribbean, Peru. (s/f). World Bank Open Data. Recuperado el 15 de enero de 2024, de https://datos.bancomundial.org/indicador/EG.CFT.ACCS.ZS?end=2021&locations=ZJ-PE&most_recent_year_desc=false&start=2000&view=chart
 
-el Perú, P. P. A. el A. U. a. la E. en. (s/f). Energización rural mediante el uso de energías renovables para fomentar un desarrollo integral y sostenible. Edu.pe. Recuperado el 15 de enero de 2024, de https://repositorio.pucp.edu.pe/index/bitstream/handle/123456789/64216/varios_propuestas_acceso_energia.pdf?sequence=1&isAllowed=y
+Escobar, R., Gamio, P., Moreno, A. I., Castro, A. S., Cordero, V., & Vásquez, U. (2016). Energización rural mediante el uso de energías renovables para fomentar un desarrollo integral y sostenible: Propuestas para alcanzar el acceso universal a la energía en el Perú. Edu.pe. Recuperado el 15 de enero de 2024, de https://repositorio.pucp.edu.pe/index/bitstream/handle/123456789/64216/varios_propuestas_acceso_energia.pdf?sequence=1&isAllowed=y
 
-Especial, E. (s/f). Informe de los Objetivos de Desarrollo Sostenible. Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2023/The-Sustainable-Development-Goals-Report-2023_Spanish.pdf?_gl=1*jcewmb*_ga*MTkwNDE4MjgxMi4xNzA1MDE2MTY3*_ga_TK9BQL5X7Z*MTcwNTI3NjQ0Mi45LjAuMTcwNTI3NjQ0Mi4wLjAuMA..
+ONU (2023). En Informe de los Objetivos de desarrollo sostenible. Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2023/The-Sustainable-Development-Goals-Report-2023_Spanish.pdf?_gl=1*jcewmb*_ga*MTkwNDE4MjgxMi4xNzA1MDE2MTY3*_ga_TK9BQL5X7Z*MTcwNTI3NjQ0Mi45LjAuMTcwNTI3NjQ0Mi4wLjAuMA..
 
 Global, G. (2022, marzo 25). Precio del gas natural en los mercados internacionales. GNL GLOBAL. https://gnlglobal.com/precio-del-gas-natural-en-los-mercados-internacionales/
 
-Minem: Energías renovables representan el 5% de la matriz energética del Perú. (s/f). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.minem.gob.pe/_detallenoticia.php?idSector=9&idTitular=9581
+Minem (2019).Energías renovables representan el 5% de la matriz energética del Perú.  Gob.pe. Recuperado el 15 de enero de 2024, de https://www.minem.gob.pe/_detallenoticia.php?idSector=9&idTitular=9581
 
-Peru. (s/f). IEA. Recuperado el 15 de enero de 2024, de https://www.iea.org/countries/peru
+"Peru - Countries & Regions"(s/f). IEA. Recuperado el 15 de enero de 2024, de https://www.iea.org/countries/peru
 
-Precios al consumidor en Lima Metropolitana aumentaron 0,52% en noviembre de 2020. (s/f). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.gob.pe/institucion/inei/noticias/534972-precios-al-consumidor-en-lima-metropolitana-aumentaron-0-52-en-noviembre-de-2020
+INEI (2020) Precios al consumidor en Lima Metropolitana aumentaron 0,52% en noviembre de 2020.  Gob.pe. Recuperado el 15 de enero de 2024, de https://www.gob.pe/institucion/inei/noticias/534972-precios-al-consumidor-en-lima-metropolitana-aumentaron-0-52-en-noviembre-de-2020
 
-Producción de electricidad a partir de fuentes de petróleo, gas y carbón (% del total) - Latin America & Caribbean. (s/f). World Bank Open Data. Recuperado el 15 de enero de 2024, de https://datos.bancomundial.org/indicador/EG.ELC.FOSL.ZS?end=2015&locations=ZJ&start=1990
+Producción de electricidad a partir de fuentes de petróleo, gas y carbón (% del total) - Latin America & Caribbean. (2023). World Bank Open Data. Recuperado el 15 de enero de 2024, de https://datos.bancomundial.org/indicador/EG.ELC.FOSL.ZS?end=2015&locations=ZJ&start=1990
 
-United Nations. (s/f). Energías renovables: energías para un futuro más seguro | Naciones Unidas. Recuperado el 15 de enero de 2024, de https://www.un.org/es/climatechange/raising-ambition/renewable-energy
+U. Nations. (s/f). Energías renovables: energías para un futuro más seguro | Naciones Unidas. Recuperado el 15 de enero de 2024, de https://www.un.org/es/climatechange/raising-ambition/renewable-energy
 
-Vista de Análisis de la Regulación de Energías Renovables en el Perú. (s/f). Edu.pe. Recuperado el 15 de enero de 2024, de https://revistas.pucp.edu.pe/index.php/derechoysociedad/article/view/15235/15703
+Mitma Ramírez, R. E. (2015). Análisis de la Regulación de Energías Renovables en el Perú. Derecho & Sociedad, (45), 167-176. Recuperado el 15 de enero de 2024, de https://revistas.pucp.edu.pe/index.php/derechoysociedad/article/view/15235/15703
 
-(S/f-a). Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2022/The-Sustainable-Development-Goals-Report-2022_Spanish.pdf
+Informe de Sostenibilidad 2022. En cumplimiento de los Objetivos de Desarrollo Sostenible (ODS), Agenda 2030 para el Desarrollo Sostenible. (2023). Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2022/The-Sustainable-Development-Goals-Report-2022_Spanish.pdf
 
-(S/f-b). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1881/libro.pdf
+INEI (2022) Perú: Linea de base de los principales indicadores disponibles de los objetivos de desarrollo sostenible. Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1881/libro.pdf
 
-(S/f-c). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1664/libro.pdf
+INEI (2019) Hogares en los que cocinan con combustibles contaminantes. Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1664/libro.pdf
