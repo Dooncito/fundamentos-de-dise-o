@@ -11,8 +11,10 @@ Descripción de los diagramas que nos explica más la situación y problemática
 
     
 ## Diagrama de empatía
-![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/cdb86843dfa99de9dab540eb89a04d1d63d54eca/Imagenes/img%20entregable2/Mapa%20empat%C3%ADa.jpg)
-
+**Usuario: Hospital Departamental de Huancavelica "Zacarías Correa Valdivia"**
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20empatia1.jpg)
+**Usuario: MINAM**
+![Imagen](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img%20empatia2.jpg)
 ### Referencias:
 - Ramos, I. (2019, 31 de agosto). "Somo pobres": Así es tener que cocinar con leña por obligación. https://www.radiofeyalegrianoticias.com/asi-es-tener-que-cocinar-con-lena-por-obligacion/
 
