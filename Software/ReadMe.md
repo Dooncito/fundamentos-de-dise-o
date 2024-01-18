@@ -1,1 +1,1 @@
- Información sobre el desarrollo del sistema de nuestro proyecto, tanto back- end como frontd - end
+ Información sobre el desarrollo del sistema de nuestro proyecto, tanto back- end como frontd - end. Esta carpeta alberga archivos esenciales para el desarrollo y ejecución de programas en Python. Contiene scripts, módulos y proyectos que abarcan diversas funcionalidades. Organizada de manera estructurada, esta colección representa el núcleo de mi trabajo en el ámbito de la programación, ofreciendo soluciones eficientes y prácticas para una variedad de tareas y proyectos. 
