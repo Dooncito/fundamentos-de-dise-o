@@ -10,12 +10,12 @@ Nota: Gráfico en porcentajes. Tomada de (INEI,2021)
 
 ### Referencias:
 
-- Instituto Nacional de Estadística e Informática (INEI). (diciembre de 2022). Libro estadístico. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1881/libro.pdf
+Instituto Nacional de Estadística e Informática (INEI). (diciembre de 2022). Libro estadístico. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1881/libro.pdf
 
-- New Jersey Department of Health. (julio de 2016). Lead in Water: Reducing Lead Exposure - Spanish. https://www.nj.gov/health/eoh/rtkweb/documents/fs/0343sp.pdf
+New Jersey Department of Health. (julio de 2016). Lead in Water: Reducing Lead Exposure - Spanish. https://www.nj.gov/health/eoh/rtkweb/documents/fs/0343sp.pdf
 
-- Ecología Verde. (3 de abril de 2019). El impacto medioambiental del dióxido de carbono. https://www.ecologiaverde.com/el-impacto-medioambiental-del-dioxido-de-carbono-1334.html
+Ecología Verde. (3 de abril de 2019). El impacto medioambiental del dióxido de carbono. https://www.ecologiaverde.com/el-impacto-medioambiental-del-dioxido-de-carbono-1334.html
 
-- Agencia de Protección Ambiental de los Estados Unidos (EPA). (10 de mayo de 2023). Efectos del material particulado (PM) sobre la salud y el medioambiente. https://espanol.epa.gov/espanol/efectos-del-material-particulado-pm-sobre-la-salud-y-el-medioambiente
+Agencia de Protección Ambiental de los Estados Unidos (EPA). (10 de mayo de 2023). Efectos del material particulado (PM) sobre la salud y el medioambiente. https://espanol.epa.gov/espanol/efectos-del-material-particulado-pm-sobre-la-salud-y-el-medioambiente
 
 
