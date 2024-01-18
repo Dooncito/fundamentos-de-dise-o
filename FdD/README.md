@@ -6,7 +6,7 @@ Tiene como objetivo desarrollar en el estudiantecompetencias para diseñar, impl
 1. [Contenido/Entregables](#Contenido)
     - [Unidad 1](#Unidad-1)
       1. Entregables
-         * [Sobre Nosotros](https://github.com/Dooncito/fundamentos-de-dise-o/blob/bdc70e07a37093af796ed67a07b604ad0da0e201/FdD/Entregables/Sobre_nosotros.md)       
+         * [Sobre Nosotros](FdD/Entregables/Sobre_nosotros.md)       
          * [Contexto Social y Economico](https://github.com/Dooncito/fundamentos-de-dise-o/blob/21b8939616dabe5eb90c78f2a7415ed3ebf69310/FdD/Entregables/Contexto_SyE.md)
          * [Problematica](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/FdD%2FEntregables%2FDef_prob.md)
          * [Diagramas](https://github.com/Dooncito/fundamentos-de-dise-o/blob/eab2bc692ad6ae9fac6d6baf83526a5cc38e41c0/FdD/Entregables/Conectando_con_nuestros_usuarios.md)
