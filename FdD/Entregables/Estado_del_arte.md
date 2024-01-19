@@ -87,7 +87,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 ### <center>Medidor de CO2 PCE-AQD 50-ICA</center>
 **Finalidad:** Mide temperatura, humedad, presión atmosférica, CO2
 
-![zxzc](https://github.dev/Dooncito/fundamentos-de-dise-o/blob/7c414c4ea29376feaa1b7d1274b6c73c8a0cf505/Imagenes/img_comercial_y_cienti/mercado1.jpg)
+![zxzc](https://github.com/Dooncito/fundamentos-de-dise-o/blob/904786c1f46c3eb6555d83866e94fbd30387a7d9/Imagenes/img_comercial_y_cienti/mercado1.jpg)
 
 **Descripción:** El medidor de CO2 integra diferentes sensores. Entre ellos está un sensor que mide el dióxido de carbono hasta 40 000 ppm, un sensor de temperatura para un rango entre 0 y +50 ºC, un sensor que mide la humedad del aire entre 0 y 100 % H.r. Gracias a los diferentes sensores que integra el medidor de CO2 puede usarlo en múltiples aplicaciones. Puede visualizar los valores en la pantalla digital del medidor de CO2. Además, incluye una valoración Bien / Regular / Mal de la concentración de CO2 del aire. La pantalla digital de bajo consumo permite aumentar la autonomía del acumulador del medidor de CO2.
 
