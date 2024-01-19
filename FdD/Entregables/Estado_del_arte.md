@@ -2,11 +2,14 @@
 ### Contenido:
 1. [Contexto Científico](#contexto-científico)
 2. [Contexto Comercial](#contexto-comercial)
+    2.1 [Equipos o Dispositivos en el mercado](#dispositivos-en-el-mercado-o-equipos)
+    2.1 [Patentes](#patentes)
+3. [Tabla de Requerimiento](#requerimientos)
 
 
 ## CONTEXTO CIENTÍFICO
 
-### 1.1. Indoor Air Quality Monitoring Systems Based on Internet of Things: A Systematic Review                                         (Sistemas de monitoreo de la calidad del aire interior basados ​​en Internet de las cosas: una revisión sistemática)  
+### Articulo 1: Indoor Air Quality Monitoring Systems Based on Internet of Things: A Systematic Review                                         (Sistemas de monitoreo de la calidad del aire interior basados ​​en Internet de las cosas: una revisión sistemática)  
 
 El siguiente artículo es una revisión sistemática que proporciona información del estado actual de los sistemas de monitoreo de la calidad del aire interior (IAQ) basados en LOT y su principal objetivo es, mediante la información de estudios realizados en diversos países, el proporcionar una visión general del campo de monitoreo de la calidad del aire interior y de paso resaltar las dificultades técnicas de la actualidad para futuras investigaciones. 
 
