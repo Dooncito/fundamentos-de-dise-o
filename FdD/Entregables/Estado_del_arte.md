@@ -2,7 +2,7 @@
 ### Contenido:
 1. [Contexto Científico](#contexto-científico)
    
-   1.1 [Artículo #1](#articulo-1-indoor-air-quality-monitoring-systems-based-on-internet-of-things-a-systematic-review-sistemas-de-monitoreo-de-la-calidad-del-aire-interior-basados-​​en-internet-de-las-cosas-una-revisión-sistemática)
+   1.1 [Artículo #1](#artículo-1-indoor-air-quality-monitoring-systems-based-on-internet-of-things-a-systematic-review-sistemas-de-monitoreo-de-la-calidad-del-aire-interior-basados-​​en-internet-de-las-cosas-una-revisión-sistemática)
 
    1.2 [Artículo #2](#artículo-2-continuous-monitoring-of-indoor-environmental-quality-using-an-arduino-based-data-acquisition-system)
 
@@ -86,8 +86,10 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 ### **Dispositivos en el mercado o equipos:**
 ### <center>Medidor de CO2 PCE-AQD 50-ICA</center>
 **Finalidad:** Mide temperatura, humedad, presión atmosférica, CO2
-
-![zxzc](https://github.com/Dooncito/fundamentos-de-dise-o/blob/904786c1f46c3eb6555d83866e94fbd30387a7d9/Imagenes/img_comercial_y_cienti/mercado1.jpg)
+<p align="center"><strong>Figura 6:</strong></p>
+<p align="center">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/b9b25c8712343dd760b5010f12b208be1002879d/Imagenes/img_comercial_y_cienti/mercado1.jpg" width="500" style="margin: auto;">
+</p>
 
 **Descripción:** El medidor de CO2 integra diferentes sensores. Entre ellos está un sensor que mide el dióxido de carbono hasta 40 000 ppm, un sensor de temperatura para un rango entre 0 y +50 ºC, un sensor que mide la humedad del aire entre 0 y 100 % H.r. Gracias a los diferentes sensores que integra el medidor de CO2 puede usarlo en múltiples aplicaciones. Puede visualizar los valores en la pantalla digital del medidor de CO2. Además, incluye una valoración Bien / Regular / Mal de la concentración de CO2 del aire. La pantalla digital de bajo consumo permite aumentar la autonomía del acumulador del medidor de CO2.
 
