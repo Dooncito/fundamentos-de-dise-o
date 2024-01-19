@@ -73,3 +73,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 ### **Patentes:** 
 
 ## REQUERIMIENTOS 
+
+![img](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/NoFuncionales.jpg)
+
+![img](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Funcionales.jpg)
