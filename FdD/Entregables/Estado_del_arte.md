@@ -25,6 +25,14 @@ Arduino Uno y Raspberry Pi fueron los microprocesadores(MCU) más utilizados com
 Los métodos de consulta de datos preferidos son mediante app móviles y páginas webs.
 Las fuentes de energía preferidas para ejecutar monitoreos de IAQ fueron las fuentes de alimentación, seguido del uso de baterías externas. Las células solares también fueron utilizadas como fuentes de energía para monitoreos de IAQ, mas solo se implementaron en dos estudios.
 
+## Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis(Exposición a largo plazo a PM y mortalidad por todas las causas y por causas específicas: una revisión sistemática y un metanálisis)
+
+En base a la revisión sistemática, se evidencia que las partículas PM2.5 representan un riesgo significativo para la salud, con asociaciones claras a mayor mortalidad por diversas causas, incluyendo enfermedades cardiovasculares, respiratorias y cáncer de pulmón. Los riesgos relativos combinados revelan un aumento de 1,08 en la mortalidad por causas naturales por cada incremento de 10 µg/m3 de PM2.5, y 1,04 por cada 10 µg/m3 de PM10.
+
+A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios en países de ingresos bajos y medianos destaca la necesidad de más investigación. Las asociaciones persistentes con PM2.5, incluso por debajo de los niveles actuales de exposición recomendados por la OMS, subrayan la importancia crítica de abordar la contaminación del aire para salvaguardar la salud pública.
+
+![img anlásis de pm](https://github.com/Dooncito/fundamentos-de-dise-o/assets/156021864/62a045ea-9e9c-4ad5-9936-046653ea3dc7)
+
 ## CONTEXTO COMERCIAL
 ### **Dispositivos en el mercado o equipos:**
 ### Medidor de CO2 PCE-AQD 50-ICA
