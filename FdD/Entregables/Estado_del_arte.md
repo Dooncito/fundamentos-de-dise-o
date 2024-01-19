@@ -28,4 +28,5 @@ Las fuentes de energía preferidas para ejecutar monitoreos de IAQ fueron las fu
 ## CONTEXTO COMERCIAL
 ### **Dispositivos en el mercado o equipos:**
 ### Medidor de CO2 PCE-AQD 50-ICA
+
 ### **Patentes:** 
