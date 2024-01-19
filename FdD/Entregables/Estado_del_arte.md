@@ -1,7 +1,16 @@
 # <p align = "center"> 🖼Estado del arte🖌 </p>
 ### Contenido:
 1. [Contexto Científico](#contexto-científico)
+   
+   1.1 [Artículo #1](#articulo-1-indoor-air-quality-monitoring-systems-based-on-internet-of-things-a-systematic-review-sistemas-de-monitoreo-de-la-calidad-del-aire-interior-basados-​​en-internet-de-las-cosas-una-revisión-sistemática)
+
+   1.2 [Artículo #2](#artículo-2-continuous-monitoring-of-indoor-environmental-quality-using-an-arduino-based-data-acquisition-system)
+
+   1.3 [Artículo #3](#artículo-3-a-systematic-review-and-meta-analysis-of-field-studies-of-portable-air-cleaners-performance-user-behavior-and-by-product-emissions)
+
+   1.4 [Artículo #4](#articulo-4-long-term-exposure-to-pm-and-all-cause-and-cause-specific-mortality-a-systematic-review-and-meta-analysisexposición-a-largo-plazo-a-pm-y-mortalidad-por-todas-las-causas-y-por-causas-específicas-una-revisión-sistemática-y-un-metanálisis)
 2. [Contexto Comercial](#contexto-comercial)   
+    
     2.1 [Equipos o Dispositivos en el mercado](#dispositivos-en-el-mercado-o-equipos)
     
     2.1 [Patentes](#patentes)
@@ -10,7 +19,7 @@
 
 ## CONTEXTO CIENTÍFICO
 
-### Articulo 1: Indoor Air Quality Monitoring Systems Based on Internet of Things: A Systematic Review                                         (Sistemas de monitoreo de la calidad del aire interior basados ​​en Internet de las cosas: una revisión sistemática)  
+### Artículo 1. Indoor Air Quality Monitoring Systems Based on Internet of Things: A Systematic Review                                         (Sistemas de monitoreo de la calidad del aire interior basados ​​en Internet de las cosas: una revisión sistemática)  
 
 El siguiente artículo es una revisión sistemática que proporciona información del estado actual de los sistemas de monitoreo de la calidad del aire interior (IAQ) basados en LOT y su principal objetivo es, mediante la información de estudios realizados en diversos países, el proporcionar una visión general del campo de monitoreo de la calidad del aire interior y de paso resaltar las dificultades técnicas de la actualidad para futuras investigaciones. 
 
@@ -31,7 +40,7 @@ Las fuentes de energía preferidas para ejecutar monitoreos de IAQ fueron las fu
 
 **Referencia: https://www.mdpi.com/1660-4601/17/14/4942**
 
-### 1.2. Continuous monitoring of indoor environmental quality using an Arduino-based data acquisition system
+### Artículo 2. Continuous monitoring of indoor environmental quality using an Arduino-based data acquisition system
 Describe el desarrollo de un sistema de monitoreo de calidad del aire que es a la vez asequible y portátil, basado en la plataforma Arduino. Este sistema utiliza un sensor fotoacústico para medir las concentraciones de PM2.5 y PM10 en el aire. Tiene una batería recargable y una unidad de almacenamiento,es un dispositivo autónomo que puede ser llevado a cualquier lugar. El sistema fue probado en un laboratorio y se ha demostrado que es capaz de medir las concentraciones de PM2.5 y PM10 con una precisión del 95%. Tiene un bajo costo, por lo tanto es accesible para muchos usuarios, es una herramienta prometedora para el monitoreo de calidad del aire en interiores.
 
 <p align="center"><strong>Figura 2:</strong></p>
@@ -41,7 +50,7 @@ Describe el desarrollo de un sistema de monitoreo de calidad del aire que es a l
 
 **Referencia: https://www.sciencedirect.com/science/article/abs/pii/S2352710218301025**
 
-### A systematic review and meta-analysis of field studies of portable air cleaners: Performance, user behavior, and by-product emissions
+### Artículo 3. A systematic review and meta-analysis of field studies of portable air cleaners: Performance, user behavior, and by-product emissions
 El artículo aborda la eficacia de los purificadores de aire portátiles (PAC) en la reducción de la contaminación del aire en espacios interiores. Estos dispositivos emplean diversos métodos, como filtros u otras tecnologías, para eliminar contaminantes como partículas finas, gases y elementos biológicos del aire.
 
 Se llevaron a cabo estudios en varias partes del mundo, con un enfoque particular en América del Norte, Asia y Europa. Los resultados de esta revisión indican que los PAC pueden ser eficaces para disminuir la contaminación del aire en entornos cerrados. Sin embargo, la eficiencia varía dependiendo del tipo de contaminante, la tecnología de limpieza utilizada y el comportamiento del usuario.
@@ -60,7 +69,7 @@ Se observa que los PAC son más efectivos para reducir las partículas finas en 
 
 **Referencia: https://www.sciencedirect.com/science/article/abs/pii/S0048969723074156**
 
-### Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis(Exposición a largo plazo a PM y mortalidad por todas las causas y por causas específicas: una revisión sistemática y un metanálisis)
+### Articulo 4. Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis(Exposición a largo plazo a PM y mortalidad por todas las causas y por causas específicas: una revisión sistemática y un metanálisis)
 
 En base a la revisión sistemática, se evidencia que las partículas PM2.5 representan un riesgo significativo para la salud, con asociaciones claras a mayor mortalidad por diversas causas, incluyendo enfermedades cardiovasculares, respiratorias y cáncer de pulmón. Los riesgos relativos combinados revelan un aumento de 1,08 en la mortalidad por causas naturales por cada incremento de 10 µg/m3 de PM2.5, y 1,04 por cada 10 µg/m3 de PM10.
 
@@ -75,8 +84,15 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 
 ## CONTEXTO COMERCIAL
 ### **Dispositivos en el mercado o equipos:**
-### Medidor de CO2 PCE-AQD 50-ICA
+### <center>Medidor de CO2 PCE-AQD 50-ICA</center>
+**Finalidad:** Mide temperatura, humedad, presión atmosférica, CO2
 
+![zxzc](https://github.dev/Dooncito/fundamentos-de-dise-o/blob/7c414c4ea29376feaa1b7d1274b6c73c8a0cf505/Imagenes/img_comercial_y_cienti/mercado1.jpg)
+
+**Descripción:** El medidor de CO2 integra diferentes sensores. Entre ellos está un sensor que mide el dióxido de carbono hasta 40 000 ppm, un sensor de temperatura para un rango entre 0 y +50 ºC, un sensor que mide la humedad del aire entre 0 y 100 % H.r. Gracias a los diferentes sensores que integra el medidor de CO2 puede usarlo en múltiples aplicaciones. Puede visualizar los valores en la pantalla digital del medidor de CO2. Además, incluye una valoración Bien / Regular / Mal de la concentración de CO2 del aire. La pantalla digital de bajo consumo permite aumentar la autonomía del acumulador del medidor de CO2.
+
+Fuente: ![Aqui](https://www.pce-instruments.com/peru/instrumento-medida/medidor/medidor-de-co2-pce-instruments-medidor-de-co2-pce-aqd-50-ica-incl.-certificado-calibraci%C3%B3n-det_6080851.htm?_list=kat&_listpos=2
+)  
 ### **Patentes:** 
 
 ## REQUERIMIENTOS 
