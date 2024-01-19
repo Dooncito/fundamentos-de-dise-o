@@ -131,6 +131,75 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 **Enlace:** [Aqui](https://www.pce-instruments.com/peru/instrumento-medida/medidor/medidor-de-particulas-pce-instruments-medidor-de-part%C3%ADculas-pce-aqd-20-det_5909905.htm?_list=kat&_listpos=9)
 
 ### **Patentes:** 
+### Patente 1:
+### <p align="center">Dispositivo de aspiración y purificación de humos con función de recuperación de calor residua</p>
+**Fecha de publicación:** 2022-06-21
+
+**Número de publicaciones:** CN216790309U
+
+**Inventores:** TANG JIE; NI DAMANDO; LIU ZONGLING
+
+<p align="center"><strong>Figura 10:</strong></p>
+<p align="center">
+  <img src="link" width="500" style="margin: auto;">
+</p>
+
+**Descripción:** El dispositivo es un sistema de aspiración y purificación de humos para cocinas, con recuperación de calor residual. Con una carcasa en forma de L y mecanismo de intercambio de calor, recicla el calor del humo durante la purificación. La estructura incluye placas, tira guía, y un mecanismo de intercambio con aletas y tubos de absorción. Este diseño garantiza eficiencia al aprovechar el calor residual durante la aspiración y purificación de humos de cocina.(Tang J., 2022)
+
+**Referencia:** TANG, J.; DAMING, N.; ZONGLING, L.(2022)Smoke suction and purification device with waste heat recovery function for kitchen. CN216790309U. Recuperado de https://worldwide.espacenet.com/patent/search/family/082010151/publication/CN216790309U?q=pn%3DCN216790309U
+
+### Patente 2:
+### <p align="center">Sistema de precipitación electrostática para captura de materia partícula en equipos de conbustión domésticos</p>
+**Fecha de publicación:** 2020-01-02
+
+**Número de publicaciones:** WO2020000115A1
+
+**Inventores:** SOTO ESPINACE, Ricardo; BURBOA VILLARROEL, Eduardo; SOTO VERA, Esteban
+
+<p align="center"><strong>Figura 11:</strong></p>
+<p align="center">
+  <img src="link" width="500" style="margin: auto;">
+</p>
+
+**Descripción:** La invención es un sistema de precipitación electrostática para capturar material particulado en equipos de combustión como estufas y calderas de biomasa. Incluye un tubo metálico, una caja de componentes eléctricos, una puerta con sensores de apertura y cierre, un electrodo removible y un conjunto eléctrico externo. La característica distintiva es la seguridad con sensores que apagan la fuente de alto voltaje al abrir la puerta, evitando descargas eléctricas. La amplitud de voltaje necesario para reducir el material particulado varía de 17kV a 38kV, con un valor máximo operativo de aproximadamente 28kV.(Soto E., 2020)
+
+**Referencia:** SOTO ESPINACE, R.; BURBOA VILLARROEL, E.; SOTO VERA, E.(2020)ELECTROSTATIC PRECIPITATION SYSTEM FOR CAPTURING PARTICULATE MATTER IN HOME COMBUSTION EQUIPMENT. WO2020000115A1. Recuperado de https://worldwide.espacenet.com/patent/search/family/065529042/publication/WO2020000115A1?q=pn%3DWO2020000115A1
+
+### Patente 3:
+### <p align="center">Dispositivo de humo y circuito de detección de humo</p>
+**Fecha de publicación:** 2021-06-01
+
+**Número de publicaciones:** US11024141B2
+
+**Inventor:** Eric V.Gonzales
+
+<p align="center"><strong>Figura 12:</strong></p>
+<p align="center">
+  <img src="link" width="500" style="margin: auto;">
+</p>
+
+**Descripción:** Un procedimiento para supervisar una ubicación llevado a cabo por uno o más procesadores incluye la recepción de señales provenientes de un sensor de humo. Posteriormente, se identifican una o más características distintivas a partir de las señales recibidas. Luego, se establece una ventana de tiempo basándose en al menos una de las características identificadas. Se caracterizan uno o más tipos de incendio dentro de la ventana de tiempo determinada utilizando las características identificadas. Además, se determinan de manera dinámica uno o más niveles de alarma según la caracterización de los tipos de fuego. Se evalúa al menos una característica dentro de la ventana de tiempo utilizando los niveles de alarma establecidos y, si se detecta una condición de alarma, se emite una señal de alarma.(Gonzales, 2021)
+
+**Referencia:** Gonzales, E.(2021)  Smoke device and smoke detection circuit. US11024141B2. Recuperado de https://patentimages.storage.googleapis.com/c1/45/a8/021df7692b10cf/US11024141.pdf
+### Patente 4:
+### <p align="center">Ventilador de escape de humo electrónico de protección del medio ambiente y aparato de absorción de electrones de humo</p>
+**Fecha de publicación:** 2008-11-12
+
+**Número de publicaciones:** CN100431711C
+
+**Inventores:** TAO XIANFANG
+
+<p align="center"><strong>Figura 13:</strong></p>
+<p align="center">
+  <img src="link" width="500" style="margin: auto;">
+</p>
+
+**Descripción:** La tecnología absorbe el polvo utilizando electricidad estática para ionizar y cargar las partículas de humo, luego utiliza un fuerte campo eléctrico para desviar y absorber las partículas de humo cargadas para generar iones de oxígeno negativos,que contribuyen a refrescar y esterilizar el aire.
+Utiliza un fuerte campo eléctrico generado por un alto voltaje para ionizar las partículas de humo o la mezcla en el humo para cargarlo, y luego usa la misma electricidad para repelerse entre sí. El principio de atracción mutua, reciclarlo. Una vez recuperados los vapores de aceite, el gas descargado por la campana extractora electrónica respetuosa con el medio ambiente apenas contiene vapores de aceite u otras impurezas, y todo es aire puro, lo que equivale a filtrar el aire contaminado. (XIANFANG. ,2008)
+
+
+**Referencia:** XIANFANG, T. (2008) Environmental protection electronic smoke exhaust ventilator and smoke electron absorption apparatus. CN100431711C. Recuperado de https://worldwide.espacenet.com/patent/search?q=pn%3DCN100431711C
+
 
 ## REQUERIMIENTOS 
 
