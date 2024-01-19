@@ -10,6 +10,7 @@ Tiene como objetivo desarrollar en el estudiantecompetencias para diseñar, impl
          * [Contexto Social y Economico](Entregables/Contexto_SyE.md)
          * [Problematica](Entregables/Def_prob.md)
          * [Diagramas](Entregables/Conectando_con_nuestros_usuarios.md)
+         * [Estado del Arte](Entregables/Estado_del_arte.md)
       2. Talleres
          * [Informacion sobre equipos](Entregables/Informe_equipolab.md)
     - [Unidad 2](#Unidad-2)
