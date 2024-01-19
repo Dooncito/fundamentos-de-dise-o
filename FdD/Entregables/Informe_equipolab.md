@@ -11,6 +11,7 @@ Se muestra lo desarrollado en el laboratorio para conocer y manipular los equipo
   * [Valores ajustados de la grafica](#valores-ajustados-de-la-grafica) 
   * [Valores medidos de la señal de entrada en un periodo](#valores-medidos-de-la-señal-de-entrada-en-un-periodo)
 
+Documento: https://docs.google.com/document/d/15lO--RKTINXHAl-uv1xj17NnePU8hNBNqTpfqMAFmqM/edit?usp=sharing
 
 ## Materiales
    * Fuente de alimentación regulable (HY3005BC )
