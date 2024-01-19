@@ -25,6 +25,8 @@ Arduino Uno y Raspberry Pi fueron los microprocesadores(MCU) más utilizados com
 Los métodos de consulta de datos preferidos son mediante app móviles y páginas webs.
 Las fuentes de energía preferidas para ejecutar monitoreos de IAQ fueron las fuentes de alimentación, seguido del uso de baterías externas. Las células solares también fueron utilizadas como fuentes de energía para monitoreos de IAQ, mas solo se implementaron en dos estudios.
 
+**Referencia: https://www.mdpi.com/1660-4601/17/14/4942**
+
 ### Continuous monitoring of indoor environmental quality using an Arduino-based data acquisition system
 Describe el desarrollo de un sistema de monitoreo de calidad del aire que es a la vez asequible y portátil, basado en la plataforma Arduino. Este sistema utiliza un sensor fotoacústico para medir las concentraciones de PM2.5 y PM10 en el aire. Tiene una batería recargable y una unidad de almacenamiento,es un dispositivo autónomo que puede ser llevado a cualquier lugar. El sistema fue probado en un laboratorio y se ha demostrado que es capaz de medir las concentraciones de PM2.5 y PM10 con una precisión del 95%. Tiene un bajo costo, por lo tanto es accesible para muchos usuarios, es una herramienta prometedora para el monitoreo de calidad del aire en interiores.
 
@@ -61,6 +63,8 @@ En base a la revisión sistemática, se evidencia que las partículas PM2.5 repr
 A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios en países de ingresos bajos y medianos destaca la necesidad de más investigación. Las asociaciones persistentes con PM2.5, incluso por debajo de los niveles actuales de exposición recomendados por la OMS, subrayan la importancia crítica de abordar la contaminación del aire para salvaguardar la salud pública.
 
 ![img anlásis de pm](https://github.com/Dooncito/fundamentos-de-dise-o/assets/156021864/62a045ea-9e9c-4ad5-9936-046653ea3dc7)
+
+**Referencia: https://pubmed.ncbi.nlm.nih.gov/32703584/**
 
 ## CONTEXTO COMERCIAL
 ### **Dispositivos en el mercado o equipos:**
