@@ -206,3 +206,21 @@ Utiliza un fuerte campo eléctrico generado por un alto voltaje para ionizar las
 ![img](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/NoFuncionales.jpg)
 
 ![img](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/Funcionales.jpg)
+
+
+## Bibliografía
+Chen, J., & Hoek, G. (2020). Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis. Environment international. Recuperado de https://doi.org/10.1016/j.envint.2020.105974
+
+Ebrahimifakhar, A., Poursadegh, M., Hu, Y., Yuill, D. P., & Luo, Y. (2024). A systematic review and meta-analysis of field studies of portable air cleaners: Performance, user behavior, and by-product emissions. Science of The Total Environment. Recuperado de https://doi.org/10.1016/j.scitotenv.2023.168786
+
+Gonzales, E. (2021). Smoke device and smoke detection circuit. US11024141B2. Recuperado de https://patentimages.storage.googleapis.com/c1/45/a8/021df7692b10cf/US11024141.pdf
+
+Karami, M., McMorrow, G. V., & Wang, L. (2018). Continuous monitoring of indoor environmental quality using an Arduino-based data acquisition system. Journal of Building Engineering. Recuperado de https://doi.org/10.1016/j.jobe.2018.05.014
+
+Li, C., Zhang, K., Dai, Z., Ma, Z., & Liu, X. (2020). Investigation of the Impact of Land-Use Distribution on PM2.5 in Weifang: Seasonal Variations. International Journal of Environmental Research and Public Health. Recuperado de https://doi.org/10.3390/ijerph17145135
+
+SOTO ESPINACE, R.; BURBOA VILLARROEL, E.; SOTO VERA, E. (2020). Electrostatic precipitation system for capturing particulate matter in home combustion equipment. WO2020000115A1. Recuperado de https://worldwide.espacenet.com/patent/search/family/065529042/publication/WO2020000115A1?q=pn%3DWO2020000115A1
+
+TANG, J.; DAMING, N.; ZONGLING, L. (2022). Smoke suction and purification device with waste heat recovery function for kitchen. CN216790309U. Recuperado de https://worldwide.espacenet.com/patent/search/family/082010151/publication/CN216790309U?q=pn%3DCN216790309U
+
+XIANFANG, T. (2008). Environmental protection electronic smoke exhaust ventilator and smoke electron absorption apparatus. CN100431711C. Recuperado de https://worldwide.espacenet.com/patent/search?q=pn%3DCN100431711C
