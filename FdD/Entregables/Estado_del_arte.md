@@ -1,12 +1,12 @@
-# <center>🖼Estado del arte🖌</center>
+# <p align = "center"> 🖼Estado del arte🖌 </p>
 ### Contenido:
-* [Contexto Científico](#contexto-científico)
-* [Contexto Comercial](#contexto-comercial)
+1. [Contexto Científico](#contexto-científico)
+2. [Contexto Comercial](#contexto-comercial)
 
 
 ## CONTEXTO CIENTÍFICO
 
-### Indoor Air Quality Monitoring Systems Based on Internet of Things: A Systematic Review                                         (Sistemas de monitoreo de la calidad del aire interior basados ​​en Internet de las cosas: una revisión sistemática)  
+### 1.1. Indoor Air Quality Monitoring Systems Based on Internet of Things: A Systematic Review                                         (Sistemas de monitoreo de la calidad del aire interior basados ​​en Internet de las cosas: una revisión sistemática)  
 
 El siguiente artículo es una revisión sistemática que proporciona información del estado actual de los sistemas de monitoreo de la calidad del aire interior (IAQ) basados en LOT y su principal objetivo es, mediante la información de estudios realizados en diversos países, el proporcionar una visión general del campo de monitoreo de la calidad del aire interior y de paso resaltar las dificultades técnicas de la actualidad para futuras investigaciones. 
 
@@ -27,7 +27,7 @@ Las fuentes de energía preferidas para ejecutar monitoreos de IAQ fueron las fu
 
 **Referencia: https://www.mdpi.com/1660-4601/17/14/4942**
 
-### Continuous monitoring of indoor environmental quality using an Arduino-based data acquisition system
+### 1.2. Continuous monitoring of indoor environmental quality using an Arduino-based data acquisition system
 Describe el desarrollo de un sistema de monitoreo de calidad del aire que es a la vez asequible y portátil, basado en la plataforma Arduino. Este sistema utiliza un sensor fotoacústico para medir las concentraciones de PM2.5 y PM10 en el aire. Tiene una batería recargable y una unidad de almacenamiento,es un dispositivo autónomo que puede ser llevado a cualquier lugar. El sistema fue probado en un laboratorio y se ha demostrado que es capaz de medir las concentraciones de PM2.5 y PM10 con una precisión del 95%. Tiene un bajo costo, por lo tanto es accesible para muchos usuarios, es una herramienta prometedora para el monitoreo de calidad del aire en interiores.
 
 <p align="center"><strong>Figura 2:</strong></p>
@@ -61,8 +61,11 @@ Se observa que los PAC son más efectivos para reducir las partículas finas en 
 En base a la revisión sistemática, se evidencia que las partículas PM2.5 representan un riesgo significativo para la salud, con asociaciones claras a mayor mortalidad por diversas causas, incluyendo enfermedades cardiovasculares, respiratorias y cáncer de pulmón. Los riesgos relativos combinados revelan un aumento de 1,08 en la mortalidad por causas naturales por cada incremento de 10 µg/m3 de PM2.5, y 1,04 por cada 10 µg/m3 de PM10.
 
 A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios en países de ingresos bajos y medianos destaca la necesidad de más investigación. Las asociaciones persistentes con PM2.5, incluso por debajo de los niveles actuales de exposición recomendados por la OMS, subrayan la importancia crítica de abordar la contaminación del aire para salvaguardar la salud pública.
+<p align="center"><strong>Figura 5:</strong></p>
+<p align="center">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/assets/156021864/62a045ea-9e9c-4ad5-9936-046653ea3dc7" width="500" style="margin: auto;">
+</p>
 
-![img anlásis de pm](https://github.com/Dooncito/fundamentos-de-dise-o/assets/156021864/62a045ea-9e9c-4ad5-9936-046653ea3dc7)
 
 **Referencia: https://pubmed.ncbi.nlm.nih.gov/32703584/**
 
