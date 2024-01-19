@@ -1,7 +1,7 @@
 # <p align = "center"> 🖼Estado del arte🖌 </p>
+Realizar una investigación de artículos científicos provenientes de fuentes verificadas que presenten resultados experimentales basados en hechos conocidos o nuevos conocimientos. Además, llevar a cabo la búsqueda de equipos o dispositivos existentes en el mercado y patentes que cumplan funciones relacionadas con la problemática. Para concluir, se requiere la elaboración de una tabla que contenga los requerimientos funcionales y no funcionales, en relación a las estrategias y conceptos para solucionar el problema.  
 ### Contenido:
-1. [Contexto Científico](#contexto-científico)
-   
+1. [Contexto Científico](#contexto-científico-🧪)
    1.1 [Artículo #1](#artículo-1-indoor-air-quality-monitoring-systems-based-on-internet-of-things-a-systematic-review-sistemas-de-monitoreo-de-la-calidad-del-aire-interior-basados-​​en-internet-de-las-cosas-una-revisión-sistemática)
 
    1.2 [Artículo #2](#artículo-2-continuous-monitoring-of-indoor-environmental-quality-using-an-arduino-based-data-acquisition-system)
@@ -9,7 +9,7 @@
    1.3 [Artículo #3](#artículo-3-a-systematic-review-and-meta-analysis-of-field-studies-of-portable-air-cleaners-performance-user-behavior-and-by-product-emissions)
 
    1.4 [Artículo #4](#articulo-4-long-term-exposure-to-pm-and-all-cause-and-cause-specific-mortality-a-systematic-review-and-meta-analysisexposición-a-largo-plazo-a-pm-y-mortalidad-por-todas-las-causas-y-por-causas-específicas-una-revisión-sistemática-y-un-metanálisis)
-2. [Contexto Comercial](#contexto-comercial)   
+2. [Contexto Comercial](#contexto-comercial-💻)   
     
     2.1 [Equipos o Dispositivos en el mercado](#dispositivos-en-el-mercado-o-equipos)
     
@@ -82,7 +82,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 
 **Referencia: https://pubmed.ncbi.nlm.nih.gov/32703584/**
 
-## CONTEXTO COMERCIAL
+## CONTEXTO COMERCIAL 💻
 ### **Dispositivos en el mercado o equipos:**
 ### Producto #1:
 ### <p align="center">Medidor de CO2 PCE-AQD 50-ICA</p>
