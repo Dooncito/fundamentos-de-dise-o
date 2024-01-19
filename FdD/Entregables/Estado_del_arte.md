@@ -1,8 +1,9 @@
 # <p align = "center"> 🖼Estado del arte🖌 </p>
 ### Contenido:
 1. [Contexto Científico](#contexto-científico)
-2. [Contexto Comercial](#contexto-comercial)
+2. [Contexto Comercial](#contexto-comercial)   
     2.1 [Equipos o Dispositivos en el mercado](#dispositivos-en-el-mercado-o-equipos)
+    
     2.1 [Patentes](#patentes)
 3. [Tabla de Requerimiento](#requerimientos)
 
