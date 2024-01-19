@@ -1,5 +1,5 @@
 # <p align = "center"> 🖼Estado del arte🖌 </p>
-Realizar una investigación de artículos científicos provenientes de fuentes verificadas que presenten resultados experimentales basados en hechos conocidos o nuevos conocimientos. Además, llevar a cabo la búsqueda de equipos o dispositivos existentes en el mercado y patentes que cumplan funciones relacionadas con la problemática. Para concluir, se requiere la elaboración de una tabla que contenga los requerimientos funcionales y no funcionales, en relación a las estrategias y conceptos para solucionar el problema.  
+Realizar una investigación de artículos científicos provenientes de fuentes verificadas que presenten resultados experimentales basados en hechos conocidos o nuevos conocimientos. Además, llevar a cabo la búsqueda de equipos o dispositivos existentes en el mercado y patentes que cumplan funciones relacionadas con la problemática. Para concluir, la elaboración de una tabla que contenga los requerimientos funcionales y no funcionales, para solucionar el problema.  
 ### Contenido:
 1. [Contexto Científico](#contexto-científico-🧪)
    1.1 [Artículo #1](#artículo-1-indoor-air-quality-monitoring-systems-based-on-internet-of-things-a-systematic-review-sistemas-de-monitoreo-de-la-calidad-del-aire-interior-basados-​​en-internet-de-las-cosas-una-revisión-sistemática)
