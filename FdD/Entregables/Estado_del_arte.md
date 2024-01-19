@@ -71,3 +71,5 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 ### Medidor de CO2 PCE-AQD 50-ICA
 
 ### **Patentes:** 
+
+## REQUERIMIENTOS 
