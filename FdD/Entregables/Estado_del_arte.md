@@ -28,6 +28,11 @@ Las fuentes de energía preferidas para ejecutar monitoreos de IAQ fueron las fu
 ### Continuous monitoring of indoor environmental quality using an Arduino-based data acquisition system
 Describe el desarrollo de un sistema de monitoreo de calidad del aire que es a la vez asequible y portátil, basado en la plataforma Arduino. Este sistema utiliza un sensor fotoacústico para medir las concentraciones de PM2.5 y PM10 en el aire. Tiene una batería recargable y una unidad de almacenamiento,es un dispositivo autónomo que puede ser llevado a cualquier lugar. El sistema fue probado en un laboratorio y se ha demostrado que es capaz de medir las concentraciones de PM2.5 y PM10 con una precisión del 95%. Tiene un bajo costo, por lo tanto es accesible para muchos usuarios, es una herramienta prometedora para el monitoreo de calidad del aire en interiores.
 
+<p align="center"><strong>Figura 2:</strong></p>
+<p align="center">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img3/metaFun.jpg" width="500" style="margin: auto;">
+</p>
+
 **Referencia: https://www.sciencedirect.com/science/article/abs/pii/S2352710218301025**
 
 ### A systematic review and meta-analysis of field studies of portable air cleaners: Performance, user behavior, and by-product emissions
@@ -36,6 +41,16 @@ El artículo aborda la eficacia de los purificadores de aire portátiles (PAC) e
 Se llevaron a cabo estudios en varias partes del mundo, con un enfoque particular en América del Norte, Asia y Europa. Los resultados de esta revisión indican que los PAC pueden ser eficaces para disminuir la contaminación del aire en entornos cerrados. Sin embargo, la eficiencia varía dependiendo del tipo de contaminante, la tecnología de limpieza utilizada y el comportamiento del usuario.
 
 Se observa que los PAC son más efectivos para reducir las partículas finas en comparación con los contaminantes gaseosos o biológicos. Entre las tecnologías de limpieza más eficaces para las partículas finas se encuentran los filtros HEPA y los filtros de carbón activado. Poseen el potencial de mejorar la calidad del aire en ambientes interiores. No obstante, se destaca la necesidad de realizar más investigaciones para comprender a fondo su eficacia y seguridad.
+
+<p align="center"><strong>Figura 3:</strong></p>
+<p align="center">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img3/metaFun2.jpg" width="500" style="margin: auto;">
+</p>
+
+<p align="center"><strong>Figura 4:</strong></p>
+<p align="center">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/Imagenes/img3/imgMeta.jpg" width="500" style="margin: auto;">
+</p>
 
 **Referencia: https://www.sciencedirect.com/science/article/abs/pii/S0048969723074156**
 
