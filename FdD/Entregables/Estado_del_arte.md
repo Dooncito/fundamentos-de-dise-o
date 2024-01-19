@@ -1,3 +1,9 @@
+# <center>🖼Estado del arte🖌</center>
+### Contenido:
+* [Contexto Científico](#contexto-científico)
+* [Contexto Comercial](#contexto-comercial)
+
+
 ## CONTEXTO CIENTÍFICO
 
 ### Indoor Air Quality Monitoring Systems Based on Internet of Things: A Systematic Review                                         (Sistemas de monitoreo de la calidad del aire interior basados ​​en Internet de las cosas: una revisión sistemática)  
@@ -18,3 +24,8 @@ Arduino Uno y Raspberry Pi fueron los microprocesadores(MCU) más utilizados com
 26 estudios prefieren almacenar sus datos de IAQ en servidores de la nube debido a su fácil accesos a las actualizaciones desde cualquier lugar y momento, convirtiéndola así en la fuente de almacenamiento de datos con mayor comodidad y uso.
 Los métodos de consulta de datos preferidos son mediante app móviles y páginas webs.
 Las fuentes de energía preferidas para ejecutar monitoreos de IAQ fueron las fuentes de alimentación, seguido del uso de baterías externas. Las células solares también fueron utilizadas como fuentes de energía para monitoreos de IAQ, mas solo se implementaron en dos estudios.
+
+## CONTEXTO COMERCIAL
+### **Dispositivos en el mercado o equipos:**
+### Medidor de CO2 PCE-AQD 50-ICA
+### **Patentes:** 
