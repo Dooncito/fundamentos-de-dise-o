@@ -91,7 +91,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 
 **Descripción:** El medidor de CO2 integra diferentes sensores. Entre ellos está un sensor que mide el dióxido de carbono hasta 40 000 ppm, un sensor de temperatura para un rango entre 0 y +50 ºC, un sensor que mide la humedad del aire entre 0 y 100 % H.r. Gracias a los diferentes sensores que integra el medidor de CO2 puede usarlo en múltiples aplicaciones. Puede visualizar los valores en la pantalla digital del medidor de CO2. Además, incluye una valoración Bien / Regular / Mal de la concentración de CO2 del aire. La pantalla digital de bajo consumo permite aumentar la autonomía del acumulador del medidor de CO2.
 
-Fuente: ![Aqui](https://www.pce-instruments.com/peru/instrumento-medida/medidor/medidor-de-co2-pce-instruments-medidor-de-co2-pce-aqd-50-ica-incl.-certificado-calibraci%C3%B3n-det_6080851.htm?_list=kat&_listpos=2
+Fuente: [Aqui](https://github.com/Dooncito/fundamentos-de-dise-o/blob/6067512e251eca8f64e63aa3e7df10b908ed3652/Imagenes/img_comercial_y_cienti/mercado1.jpg
 )  
 ### **Patentes:** 
 
