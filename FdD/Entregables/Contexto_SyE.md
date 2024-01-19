@@ -133,6 +133,4 @@ Mitma Ramírez, R. E. (2015). Análisis de la Regulación de Energías Renovable
 
 Informe de Sostenibilidad 2022. En cumplimiento de los Objetivos de Desarrollo Sostenible (ODS), Agenda 2030 para el Desarrollo Sostenible. (2023). Unstats.un.org. Recuperado el 15 de enero de 2024, de https://unstats.un.org/sdgs/report/2022/The-Sustainable-Development-Goals-Report-2022_Spanish.pdf
 
-INEI (2022) Perú: Linea de base de los principales indicadores disponibles de los objetivos de desarrollo sostenible. Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1881/libro.pdf
 
-INEI (2019) Hogares en los que cocinan con combustibles contaminantes. Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1664/libro.pdf
