@@ -141,7 +141,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 
 <p align="center"><strong>Figura 10:</strong></p>
 <p align="center">
-  <img src="link" width="500" style="margin: auto;">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/120f9ca0a7d9455328a6638fb018465983668eeb/Imagenes/img_comercial_y_cienti/protos1.jpg" width="500" style="margin: auto;">
 </p>
 
 **Descripción:** El dispositivo es un sistema de aspiración y purificación de humos para cocinas, con recuperación de calor residual. Con una carcasa en forma de L y mecanismo de intercambio de calor, recicla el calor del humo durante la purificación. La estructura incluye placas, tira guía, y un mecanismo de intercambio con aletas y tubos de absorción. Este diseño garantiza eficiencia al aprovechar el calor residual durante la aspiración y purificación de humos de cocina.(Tang J., 2022)
@@ -158,7 +158,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 
 <p align="center"><strong>Figura 11:</strong></p>
 <p align="center">
-  <img src="link" width="500" style="margin: auto;">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/120f9ca0a7d9455328a6638fb018465983668eeb/Imagenes/img_comercial_y_cienti/protos2.png" width="500" style="margin: auto;">
 </p>
 
 **Descripción:** La invención es un sistema de precipitación electrostática para capturar material particulado en equipos de combustión como estufas y calderas de biomasa. Incluye un tubo metálico, una caja de componentes eléctricos, una puerta con sensores de apertura y cierre, un electrodo removible y un conjunto eléctrico externo. La característica distintiva es la seguridad con sensores que apagan la fuente de alto voltaje al abrir la puerta, evitando descargas eléctricas. La amplitud de voltaje necesario para reducir el material particulado varía de 17kV a 38kV, con un valor máximo operativo de aproximadamente 28kV.(Soto E., 2020)
@@ -175,7 +175,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 
 <p align="center"><strong>Figura 12:</strong></p>
 <p align="center">
-  <img src="link" width="500" style="margin: auto;">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/120f9ca0a7d9455328a6638fb018465983668eeb/Imagenes/img_comercial_y_cienti/protos3.png" width="500" style="margin: auto;">
 </p>
 
 **Descripción:** Un procedimiento para supervisar una ubicación llevado a cabo por uno o más procesadores incluye la recepción de señales provenientes de un sensor de humo. Posteriormente, se identifican una o más características distintivas a partir de las señales recibidas. Luego, se establece una ventana de tiempo basándose en al menos una de las características identificadas. Se caracterizan uno o más tipos de incendio dentro de la ventana de tiempo determinada utilizando las características identificadas. Además, se determinan de manera dinámica uno o más niveles de alarma según la caracterización de los tipos de fuego. Se evalúa al menos una característica dentro de la ventana de tiempo utilizando los niveles de alarma establecidos y, si se detecta una condición de alarma, se emite una señal de alarma.(Gonzales, 2021)
@@ -191,7 +191,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 
 <p align="center"><strong>Figura 13:</strong></p>
 <p align="center">
-  <img src="link" width="500" style="margin: auto;">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/120f9ca0a7d9455328a6638fb018465983668eeb/Imagenes/img_comercial_y_cienti/protos4.png" width="500" style="margin: auto;">
 </p>
 
 **Descripción:** La tecnología absorbe el polvo utilizando electricidad estática para ionizar y cargar las partículas de humo, luego utiliza un fuerte campo eléctrico para desviar y absorber las partículas de humo cargadas para generar iones de oxígeno negativos,que contribuyen a refrescar y esterilizar el aire.
