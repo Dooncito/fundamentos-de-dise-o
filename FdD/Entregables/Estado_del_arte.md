@@ -30,6 +30,15 @@ Describe el desarrollo de un sistema de monitoreo de calidad del aire que es a l
 
 **Referencia: https://www.sciencedirect.com/science/article/abs/pii/S2352710218301025**
 
+### A systematic review and meta-analysis of field studies of portable air cleaners: Performance, user behavior, and by-product emissions
+El artículo aborda la eficacia de los purificadores de aire portátiles (PAC) en la reducción de la contaminación del aire en espacios interiores. Estos dispositivos emplean diversos métodos, como filtros u otras tecnologías, para eliminar contaminantes como partículas finas, gases y elementos biológicos del aire.
+
+Se llevaron a cabo estudios en varias partes del mundo, con un enfoque particular en América del Norte, Asia y Europa. Los resultados de esta revisión indican que los PAC pueden ser eficaces para disminuir la contaminación del aire en entornos cerrados. Sin embargo, la eficiencia varía dependiendo del tipo de contaminante, la tecnología de limpieza utilizada y el comportamiento del usuario.
+
+Se observa que los PAC son más efectivos para reducir las partículas finas en comparación con los contaminantes gaseosos o biológicos. Entre las tecnologías de limpieza más eficaces para las partículas finas se encuentran los filtros HEPA y los filtros de carbón activado. Poseen el potencial de mejorar la calidad del aire en ambientes interiores. No obstante, se destaca la necesidad de realizar más investigaciones para comprender a fondo su eficacia y seguridad.
+
+**Referencia: https://www.sciencedirect.com/science/article/abs/pii/S0048969723074156**
+
 ### Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis(Exposición a largo plazo a PM y mortalidad por todas las causas y por causas específicas: una revisión sistemática y un metanálisis)
 
 En base a la revisión sistemática, se evidencia que las partículas PM2.5 representan un riesgo significativo para la salud, con asociaciones claras a mayor mortalidad por diversas causas, incluyendo enfermedades cardiovasculares, respiratorias y cáncer de pulmón. Los riesgos relativos combinados revelan un aumento de 1,08 en la mortalidad por causas naturales por cada incremento de 10 µg/m3 de PM2.5, y 1,04 por cada 10 µg/m3 de PM10.
