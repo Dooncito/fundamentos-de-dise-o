@@ -25,7 +25,12 @@ Arduino Uno y Raspberry Pi fueron los microprocesadores(MCU) más utilizados com
 Los métodos de consulta de datos preferidos son mediante app móviles y páginas webs.
 Las fuentes de energía preferidas para ejecutar monitoreos de IAQ fueron las fuentes de alimentación, seguido del uso de baterías externas. Las células solares también fueron utilizadas como fuentes de energía para monitoreos de IAQ, mas solo se implementaron en dos estudios.
 
-## Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis(Exposición a largo plazo a PM y mortalidad por todas las causas y por causas específicas: una revisión sistemática y un metanálisis)
+### Continuous monitoring of indoor environmental quality using an Arduino-based data acquisition system
+Describe el desarrollo de un sistema de monitoreo de calidad del aire que es a la vez asequible y portátil, basado en la plataforma Arduino. Este sistema utiliza un sensor fotoacústico para medir las concentraciones de PM2.5 y PM10 en el aire. Tiene una batería recargable y una unidad de almacenamiento,es un dispositivo autónomo que puede ser llevado a cualquier lugar. El sistema fue probado en un laboratorio y se ha demostrado que es capaz de medir las concentraciones de PM2.5 y PM10 con una precisión del 95%. Tiene un bajo costo, por lo tanto es accesible para muchos usuarios, es una herramienta prometedora para el monitoreo de calidad del aire en interiores.
+
+**Referencia: https://www.sciencedirect.com/science/article/abs/pii/S2352710218301025**
+
+### Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis(Exposición a largo plazo a PM y mortalidad por todas las causas y por causas específicas: una revisión sistemática y un metanálisis)
 
 En base a la revisión sistemática, se evidencia que las partículas PM2.5 representan un riesgo significativo para la salud, con asociaciones claras a mayor mortalidad por diversas causas, incluyendo enfermedades cardiovasculares, respiratorias y cáncer de pulmón. Los riesgos relativos combinados revelan un aumento de 1,08 en la mortalidad por causas naturales por cada incremento de 10 µg/m3 de PM2.5, y 1,04 por cada 10 µg/m3 de PM10.
 
