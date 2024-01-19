@@ -15,7 +15,7 @@ Realizar una investigación de artículos científicos provenientes de fuentes v
     2.1 [Equipos o Dispositivos en el mercado](#dispositivos-en-el-mercado-o-equipos)
     
     2.1 [Patentes](#patentes)
-3. [Tabla de Requerimiento](#requerimientos)
+3. [Lista de Requerimiento](#requerimientos)
 4. [Bibliografía](#bibliografía)
 
 ## CONTEXTO CIENTÍFICO🧪
