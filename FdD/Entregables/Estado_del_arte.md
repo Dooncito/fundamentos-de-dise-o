@@ -84,7 +84,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 
 ## CONTEXTO COMERCIAL
 ### **Dispositivos en el mercado o equipos:**
-### <center>Medidor de CO2 PCE-AQD 50-ICA</center>
+### <p align="center">Medidor de CO2 PCE-AQD 50-ICA</p>
 **Finalidad:** Mide temperatura, humedad, presión atmosférica, CO2
 <p align="center"><strong>Figura 6:</strong></p>
 <p align="center">
