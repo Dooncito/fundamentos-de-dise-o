@@ -89,7 +89,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 **Finalidad:** Mide temperatura, humedad, presión atmosférica, CO2
 <p align="center"><strong>Figura 6:</strong></p>
 <p align="center">
-  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/b9b25c8712343dd760b5010f12b208be1002879d/Imagenes/img_comercial_y_cienti/mercado1.jpg" width="500" style="margin: auto;">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/b9b25c8712343dd760b5010f12b208be1002879d/Imagenes/img_comercial_y_cienti/mercado1.jpg" width="300" style="margin: auto;">
 </p>
 
 **Descripción:** El medidor de CO2 integra diferentes sensores. Entre ellos está un sensor que mide el dióxido de carbono hasta 40 000 ppm, un sensor de temperatura para un rango entre 0 y +50 ºC, un sensor que mide la humedad del aire entre 0 y 100 % H.r. Gracias a los diferentes sensores que integra el medidor de CO2 puede usarlo en múltiples aplicaciones. Puede visualizar los valores en la pantalla digital del medidor de CO2. Además, incluye una valoración Bien / Regular / Mal de la concentración de CO2 del aire. La pantalla digital de bajo consumo permite aumentar la autonomía del acumulador del medidor de CO2.
@@ -100,7 +100,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 **Finalidad:** Eliminar o capturar los humos y partículas generados
 <p align="center"><strong>Figura 7:</strong></p>
 <p align="center">
-  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/dc18e8ffbf06b6b6356ff15c65d55858bcf8a4d1/Imagenes/img_comercial_y_cienti/product2.jpg" width="500" style="margin: auto;">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/dc18e8ffbf06b6b6356ff15c65d55858bcf8a4d1/Imagenes/img_comercial_y_cienti/product2.jpg" width="250" style="margin: auto;">
 </p>
 
 **Descripción:** Extractor de humo de 550W para máquinas CNC LASER de tubo CO2 industriales,  ventilador que utiliza tiro negativo para atraer humos y partículas de polvo a un sistema de filtración contenido. Este proceso elimina las partículas peligrosas del aire. Los filtros que utiliza la unidad de extracción tienen un sensor que le informará cuando sea necesario cambiarlos.
@@ -111,7 +111,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 **Finalidad:** Electroquímico que mide el monóxido de carbono.
 <p align="center"><strong>Figura 8:</strong></p>
 <p align="center">
-  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/dc18e8ffbf06b6b6356ff15c65d55858bcf8a4d1/Imagenes/img_comercial_y_cienti/product3.jpg" width="500" style="margin: auto;">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/dc18e8ffbf06b6b6356ff15c65d55858bcf8a4d1/Imagenes/img_comercial_y_cienti/product3.jpg" width="400" style="margin: auto;">
 </p>
 
 **Descripción:** El detector doméstico de monóxido de carbono (CO) es un detector de excelentes prestaciones y reducido tamaño, dada su construcción con materiales de gran resistencia brinda excelentes características de desempeño para la detección doméstica de monóxido de carbono. Cuando la lectura indicada por el sensor se encuentre en el umbral de alarma, el detector de gas ubicado en la parte frontal del instrumento, genera destellos para que puedan ser advertidos desde por el usuario y en la parte frontal del equipo se activará en el momento en el que la concentración de monóxido alcance o supere las 100 PPM. 
@@ -123,7 +123,7 @@ A pesar de un aumento sustancial en la base de evidencia, la escasez de estudios
 **Finalidad:** Medición de temperatura, humedad del aire, CO2, PM2,5 y presión atmosférica.
 <p align="center"><strong>Figura 9:</strong></p>
 <p align="center">
-  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/dc18e8ffbf06b6b6356ff15c65d55858bcf8a4d1/Imagenes/img_comercial_y_cienti/product4.jpg" width="500" style="margin: auto;">
+  <img src="https://github.com/Dooncito/fundamentos-de-dise-o/blob/dc18e8ffbf06b6b6356ff15c65d55858bcf8a4d1/Imagenes/img_comercial_y_cienti/product4.jpg" width="300" style="margin: auto;">
 </p>
 
 **Descripción:** El medidor de partículas es un instrumento de medición ideal para controlar la calidad del aire en puestos de trabajo. El medidor de partículas es ideal para protocolar de forma continua la temperatura y humedad del aire, el CO2, las partículas PM 2,5 y la presión atmosférica. Todos estos parámetros sirven al encargado de salud y seguridad para conocer la calidad del aire. Los valores medidos con el medidor de partículas se guardan en una tarjeta de memoria SD. El formato del fichero es xls lo que le permite leer los valores directamente con el programa Excel sin la necesidad de pasar a través de un software. Los valores se visualizan en la gran pantalla retroiluminada.
