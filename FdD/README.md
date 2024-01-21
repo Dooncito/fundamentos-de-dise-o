@@ -6,13 +6,16 @@ Tiene como objetivo desarrollar en el estudiantecompetencias para diseñar, impl
 1. [Contenido/Entregables](#Contenido)
     - [Unidad 1](#Unidad-1)
       1. Entregables
-         * [Sobre Nosotros](Entregables/Sobre_nosotros.md)       
-         * [Contexto Social y Economico](Entregables/Contexto_SyE.md)
-         * [Problematica](Entregables/Def_prob.md)
-         * [Diagramas](Entregables/Conectando_con_nuestros_usuarios.md)
-         * [Estado del Arte](Entregables/Estado_del_arte.md)
+         * [Sobre Nosotros](Entregables/1.Sobre_nosotros.md)       
+         * [Contexto Social y Economico](Entregables/3.Contexto_SyE.md)
+         * [Problematica](Entregables/2.2Def_prob.md)
+         * [Diagramas](Entregables/2.1Conectando_con_nuestros_usuarios.md)
+         * [Estado del Arte](Entregables/4.Estado_del_arte.md)
       2. Talleres
-         * [Informacion sobre equipos](Entregables/Informe_equipolab.md)
+         * [Informacion sobre equipos](Talleres/1.Informe_equipolab.md)
+      3. Hitos
+         * Hito 1
+         * Hito 2
     - [Unidad 2](#Unidad-2)
     - [Unidad 3](#Unidad-3)
 2. [Evaluación](#Evaluación)
