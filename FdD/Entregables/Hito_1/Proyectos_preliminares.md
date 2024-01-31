@@ -31,7 +31,10 @@ La evaluación técnico-económica de los tres proyectos preliminares derivados 
 ![tecnica](../../../Imagenes/img_hito1/manreni.png)
 ## Proyecto óptimo
  Basándonos en los criterios de evaluación considerados, seremos capaces de determinar el proyecto más adecuado para nuestro objetivo.
+![GrfFun](https://github.com/Dooncito/fundamentos-de-dise-o/assets/150297045/a3adc9ce-9c89-45b6-89f0-a38849754d4b)
 ## Conclusión
 Basándonos en nuestro concepto solución ganador, C.S3, desarrollamos cuatro bocetos con los mismos componentes pero organizados de manera diferente. Tras evaluarlos con los criterios de la tabla, seleccionamos el proyecto preliminar N°1 como ganador al cumplir con los criterios propuestos y nuestras expectativas.
+
+
 
 Este proyecto destacó al obtener los puntajes más altos tanto en la matriz teórica (0.809) como en la matriz económica (0.859). Su sólida fundamentación teórica y su viabilidad económica lo posicionaron como la opción más prometedora. Además, su alineación con nuestros objetivos estratégicos fue evidente durante el proceso de evaluación. Por lo tanto, tras un análisis exhaustivo, decidimos que el proyecto preliminar N°1 es nuestra elección final.
