@@ -12,7 +12,7 @@
 * [Conclusión](#conclusión)   
 
 ## Bocetos(Proyectos Preliminares)
-Los tres proyectos iniciales han sido desarrollados basándose en el concepto de solución más destacado (C.S. 3), que sobresalió en la evaluación de los criterios técnicos y económicos establecidos en la tabla de valoración anterior.
+Los tres proyectos iniciales han sido desarrollados basándose en el concepto de solución más destacado (C.S. 3), que sobresalió en la evaluación establecidos en la tabla de valoración anterior.
 ### Proyecto preliminar 1:
 ![Boceto1](../../../Imagenes/img_hito1/boceto1.png)
 ### Proyecto preliminar 2:
