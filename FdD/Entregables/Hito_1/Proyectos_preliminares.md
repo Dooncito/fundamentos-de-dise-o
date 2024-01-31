@@ -20,7 +20,7 @@ Los tres proyectos iniciales han sido desarrollados basándose en el concepto de
 ### Proyecto preliminar 3:
 ![boceto3](../../../Imagenes/img_hito1/boceto3.png)
 ### Proyecto preliminar 4:
-
+![boceto3](../../../Imagenes/img_hito1/boceto4.png)
 
 ## Matriz de Evaluación
 La evaluación técnico-económica de los tres proyectos preliminares derivados de nuestra solución ganadora se llevó a cabo utilizando la metodología de diseño VDI 2225.
