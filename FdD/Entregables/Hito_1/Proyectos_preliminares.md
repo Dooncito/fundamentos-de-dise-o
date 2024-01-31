@@ -1,7 +1,7 @@
-<h1 align="center">Proyectos preliminares</h1>
+<h1 align="center">🖊Proyectos preliminares🖌</h1>
 
-#### Lista de comtenido:
-* [Bocetos](#bocetos-proyectos-preliminares)
+### Lista de comtenido:
+* [Bocetos](#bocetosproyectos-preliminares)
   * [Proyecto preliminar 1](#proyecto-preliminar-1)
   * [Proyecto preliminar 2](#proyecto-preliminar-2)
   * [Proyecto preliminar 3](#proyecto-preliminar-3)
@@ -11,7 +11,7 @@
 * [Proyecto óptimo](#proyecto-óptimo) 
 * [Conclusión](#conclusión)   
 
-## Bocetos-Proyectos Preliminares
+## Bocetos(Proyectos Preliminares)
 Los tres proyectos iniciales han sido desarrollados basándose en el concepto de solución más destacado (C.S. 3), que sobresalió en la evaluación de los criterios técnicos y económicos establecidos en la tabla de valoración anterior.
 ### Proyecto preliminar 1:
 ![Boceto1](../../../Imagenes/img_hito1/boceto1.png)
