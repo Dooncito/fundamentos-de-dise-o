@@ -26,8 +26,9 @@ Los tres proyectos iniciales han sido desarrollados basándose en el concepto de
 ## Matriz de Evaluación
 La evaluación técnico-económica de los tres proyectos preliminares derivados de nuestra solución ganadora se llevó a cabo utilizando la metodología de diseño VDI 2225.
 ### Matriz de evaluación técnica:
+![tecnica](../../../Imagenes/img_hito1/tecnico.png)
 ### Matriz de evaluación económica:
-
+![tecnica](../../../Imagenes/img_hito1/manreni.png)
 ## Proyecto óptimo
  Basándonos en los criterios de evaluación considerados, seremos capaces de determinar el proyecto más adecuado para nuestro objetivo.
 ## Conclusión
