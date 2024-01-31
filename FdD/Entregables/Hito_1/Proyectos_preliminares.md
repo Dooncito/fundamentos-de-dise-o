@@ -1,6 +1,6 @@
 <h1 align="center">🖊Proyectos preliminares🖌</h1>
 
-### Lista de comtenido:
+### Lista de contenido:
 * [Bocetos](#bocetosproyectos-preliminares)
   * [Proyecto preliminar 1](#proyecto-preliminar-1)
   * [Proyecto preliminar 2](#proyecto-preliminar-2)
