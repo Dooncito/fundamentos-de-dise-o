@@ -31,7 +31,16 @@ La evaluación técnico-económica de los tres proyectos preliminares derivados 
 ![tecnica](../../../Imagenes/img_hito1/manreni.png)
 ## Proyecto óptimo
  Basándonos en los criterios de evaluación considerados, seremos capaces de determinar el proyecto más adecuado para nuestro objetivo.
-![GrfFun](https://github.com/Dooncito/fundamentos-de-dise-o/assets/150297045/a3adc9ce-9c89-45b6-89f0-a38849754d4b)
+
+![tecnica](../../../Imagenes/img_hito1/proyecto_optimo.png)
+|N° Proyecto preliminar |Valor técnico Xi |Valor técnico Yi |
+|:--:|:--:|:--:|
+|Proyecto preliminar 1 | 0,809|0,859| 
+|Proyecto preliminar 2|0,780|0,808|
+|Proyecto preliminar 3|0,783|0,756|
+|Proyecto preliminar 4|0,773|0,859|
+
+
 ## Conclusión
 Basándonos en nuestro concepto solución ganador, C.S3, desarrollamos cuatro bocetos con los mismos componentes pero organizados de manera diferente. Tras evaluarlos con los criterios de la tabla, seleccionamos el proyecto preliminar N°1 como ganador al cumplir con los criterios propuestos y nuestras expectativas.
 
