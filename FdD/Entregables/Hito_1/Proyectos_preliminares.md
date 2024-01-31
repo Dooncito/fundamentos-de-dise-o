@@ -32,3 +32,4 @@ La evaluación técnico-económica de los tres proyectos preliminares derivados 
 ## Proyecto óptimo
  Basándonos en los criterios de evaluación considerados, seremos capaces de determinar el proyecto más adecuado para nuestro objetivo.
 ## Conclusión
+En base a nuestro concepto solución ganador,C.S3, realizamos cuatro bocetos;estos tienen los mismos componentes pero con diferente organización. Realizamos la evaluacion con los criterios de la tabla, donde salió ganador el proyecto preliminar 1 que cumple con los criterios propuestos y nuestras espectativas.
