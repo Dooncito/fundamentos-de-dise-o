@@ -26,19 +26,23 @@ Los tres proyectos iniciales han sido desarrollados basándose en el concepto de
 ## Matriz de Evaluación
 La evaluación técnico-económica de los tres proyectos preliminares derivados de nuestra solución ganadora se llevó a cabo utilizando la metodología de diseño VDI 2225.
 ### Matriz de evaluación técnica:
-![tecnica](../../../Imagenes/img_hito1/tecnico.png)
+![tecnica](../../../Imagenes/img_hito1/tecn.jpg)
+### Descripción: 
+![tecnica](../../../Imagenes/img_hito1/dif_tecn.png)
 ### Matriz de evaluación económica:
-![tecnica](../../../Imagenes/img_hito1/manreni.png)
+![tecnica](../../../Imagenes/img_hito1/eco.png)
+### Descripción:
+![tecnica](../../../Imagenes/img_hito1/dif_eco.png)
 ## Proyecto óptimo
  Basándonos en los criterios de evaluación considerados, seremos capaces de determinar el proyecto más adecuado para nuestro objetivo.
 
-![tecnica](../../../Imagenes/img_hito1/proyecto_optimo.png)
+![tecnica](../../../Imagenes/img_hito1/proyect.png)
 |N° Proyecto preliminar |Valor técnico Xi |Valor técnico Yi |
 |:--:|:--:|:--:|
-|Proyecto preliminar 1 | 0,809|0,859| 
-|Proyecto preliminar 2|0,780|0,808|
-|Proyecto preliminar 3|0,783|0,756|
-|Proyecto preliminar 4|0,773|0,859|
+|Proyecto preliminar 1 | 0,759|0,859| 
+|Proyecto preliminar 2|0,722|0,808|
+|Proyecto preliminar 3|0,797|0,756|
+|Proyecto preliminar 4|0,675|0,859|
 
 
 ## Conclusión
