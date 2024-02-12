@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import folium 
+
 # Crear datos de ejemplo
 datos = pd.DataFrame({
     'Fecha': pd.date_range(start='2022-01-01', periods=100),
@@ -34,12 +34,7 @@ def CO():
     st.header("Mapa geográfico")
 
     st.map(datos[['LAT','LON']])
-     
-    
-
-
-
-    
+         
 
 # Función para tabla
 def CO2():
