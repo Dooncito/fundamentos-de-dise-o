@@ -7,6 +7,9 @@ Datos de experimentales:
 - CO2 (dioxido de carbono):
 
 - Pm2.5 (materia particulado 2.5):
+
+
+Plataforma para ver los datos:
 https://stem.ubidots.com/app/dashboards/
 
 usuario: doncito
