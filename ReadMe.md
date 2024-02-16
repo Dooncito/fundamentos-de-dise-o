@@ -12,7 +12,7 @@ Datos de experimentales:
 Plataforma para ver los datos:
 https://stem.ubidots.com/app/dashboards/
 
-usuario: doncito
+usuario: doncito;
 contraseña: Rodigro17daniel
 
 Si desea conoce más de nosotros [dale click AQUI.](https://github.com/Dooncito/fundamentos-de-dise-o/blob/main/FdD/Entregables/Sobre_nosotros.md)
